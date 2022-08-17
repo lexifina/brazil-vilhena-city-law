@@ -1,0 +1,2 @@
+# LEI Nº 5.858/2022 ALTERA A LEI NO 5.774, DE 10 DE JUNHO DE 2022, QUE AUTORIZA O PODER EXECUTIVO A CONCEDER O USO DO BEM IMÓVEL PARA IMPLANTAÇÃO DA UNIDADE DE PREVENÇÃO DO CÂNCER NO MUNICÍPIO, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
