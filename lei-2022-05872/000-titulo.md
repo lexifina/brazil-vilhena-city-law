@@ -1,0 +1,2 @@
+# LEI No 5.872/2022 AUTORIZA O PODER EXECUTIVO MUNICIPAL A CELEBRAR CONVÊNIO COM A JBS S/A E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO EM EXERCÍCIO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
