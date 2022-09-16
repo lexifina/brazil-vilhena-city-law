@@ -1,0 +1,2 @@
+# LEI No 5.886/2022 ALTERA O CAPUT DO ARTIGO 3O E O INCISO II DO ARTIGO 4O DA LEI NO 3.727, DE 5 DE SETEMBRO DE 2013.
+O PREFEITO EM EXERCÍCIO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
