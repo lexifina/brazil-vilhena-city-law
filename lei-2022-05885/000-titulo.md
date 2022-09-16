@@ -1,0 +1,2 @@
+# LEI No 5.885/2022 DISPÕE SOBRE O LIMITE DE CONSIGNAÇÃO EM FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS MUNICIPAIS EFETIVOS.
+O PREFEITO EM EXERCÍCIO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
