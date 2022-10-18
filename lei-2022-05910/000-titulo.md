@@ -1,0 +1,2 @@
+# LEI Nº 5.910/2022 DENOMINA E OFICIALIZA RUA VALMOR OSCAR MÜLLER A ATUAL RUA 8501, SETORES 84, 85, 85 - ASSOSETE, 93 E 93 - RESIDENCIAL IPÊ.
+Autoria: Vereador Wilson Tabalipa O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
