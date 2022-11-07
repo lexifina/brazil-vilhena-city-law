@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR No 311/2022 ACRESCE E ALTERA OS DISPOSITIVOS DA LEI COMPLEMENTAR No 260, DE 31 DE JANEIRO DE 2018, QUE INSTITUI A COORDENADORIA MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL - COMPDEC DO MUNICÍPIO, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
