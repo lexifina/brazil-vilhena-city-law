@@ -1,0 +1,2 @@
+# LEI Nº 5.942/2022 DENOMINA E OFICIALIZA RUA DOMINGOS FRANCESCON MAZZUTTI A ATUAL RUA 102-71, NO RESIDENCIAL CIDADE VERDE IV.
+Autoria: Vereador Samir Ali O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
