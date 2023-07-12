@@ -1,0 +1,2 @@
+# LEI Nº 6.077, DE 12 DE JULHO DE 2023 ALTERA A LEI Nº 5.025, DE 20 DE DEZEMBRO DE 2018, QUE REESTRUTURA O REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL - RPPS E O INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE VILHENA - IPMV NO ESTADO DE RONDÔNIA.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
