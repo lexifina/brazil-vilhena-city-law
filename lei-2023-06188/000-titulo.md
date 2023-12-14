@@ -1,0 +1,2 @@
+# LEI No 6.188, DE 13 DE DEZEMBRO DE 2023 AUTORIZA O PODER EXECUTIVO A OFERECER CONTRAPARTIDA PARA A CONSTRUÇÃO DAS UNIDADES HABITACIONAIS DO PROGRAMA MINHA CASA MINHA VIDA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
