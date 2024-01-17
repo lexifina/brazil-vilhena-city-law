@@ -1,0 +1,2 @@
+# LEI No 6.206, DE 17 DE JANEIRO DE 2024 ACRESCENTA OS §§ 3º, 4º, 5º, 6º E 7º AO ARTIGO 30 DA LEI MUNICIPAL Nº 5.790, DE 14 DE JUNHO DE 2022 E ALTERA A REDAÇÃO DO INCISO I DO §2º DO ARTIGO 30 DA LEI MUNICIPAL Nº 5.790, DE 14 DE JUNHO DE 2022 E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
