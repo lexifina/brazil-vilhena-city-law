@@ -1,0 +1,2 @@
+# LEI Nº 6.261, DE 19 DE MARÇO DE 2024 ALTERA A LEI Nº 4.888, DE 4 DE MAIO DE 2018, QUE DISPÕE SOBRE A ESTRUTURA ORGANIZACIONAL DO INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE VILHENA - IPMV E ESTABELECE OUTRAS PROVIDÊNCIAS.
+O PRESIDENTE DA CÂMARA DE VEREADORES, no uso das atribuições que lhe confere o inciso IV do artigo 25 da Resolução nº 030, de 7 de fevereiro de 2020 - Regimento Interno desta Casa de Leis, bem como o § 6º do artigo 74 da Lei Orgânica do Município de Vilhena, FAZ SABER que a Câmara de Vereadores do Município de Vilhena aprovou e ele promulga a seguinte LEI:
