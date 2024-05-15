@@ -1,0 +1,2 @@
+# LEI No 6.308, DE 15 DE MAIO DE 2024 DENOMINA RUA PROFESSORA MARGARIDA SODRÉ AZEVEDO A ATUAL RUA 23, NOS SETORES 33, 55, 62, 63 e TERRA RICA.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a presente L E I:
