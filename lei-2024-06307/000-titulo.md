@@ -1,0 +1,2 @@
+# LEI No 6.307, DE 15 DE MAIO DE 2024 DENOMINA RUA IDALO GREGIO A ATUAL RUA 102-24, NOS RESIDENCIAIS CIDADE VERDE II E CIDADE VERDE III.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a presente L E I:
