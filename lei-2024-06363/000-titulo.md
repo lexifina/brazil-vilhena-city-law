@@ -1,0 +1,2 @@
+# LEI No 6.363, DE 8 DE AGOSTO DE 2024 DENOMINA RUA MITSUO SATO A ATUAL RUA 2521, SETOR 33, BAIRRO JARDIM SOCIAL.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a presente L E I:
