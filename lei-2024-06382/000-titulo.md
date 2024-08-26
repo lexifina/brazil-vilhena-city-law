@@ -1,0 +1,2 @@
+# LEI No 6.382, DE 22 DE AGOSTO DE 2024 DENOMINA RUA FRANCISCO TOMÉ E MARIA JULIETA A ATUAL RUA 736, SETORES 07A E 15.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a presente L E I:
