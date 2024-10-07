@@ -1,0 +1,2 @@
+# LEI No 6.405, DE 7 DE OUTUBRO DE 2024 ALTERA A LEI Nº 5.795, DE 15 DE JUNHO DE 2022, QUE AUTORIZA O MUNICIPIO A CELEBRAR CONVÊNIO COM O ESTADO DE RONDÔNIA, POR INTERMÉDIO DA SECRETARIA DE ESTADO DE JUSTIÇA - SEJUS, E DA OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a presente L E I:
