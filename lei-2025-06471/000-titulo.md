@@ -1,0 +1,2 @@
+# LEI Nº 6.471, DE 13 DE MARÇO DE 2025 ALTERA A LEI Nº 1.193, DE 3 DE JULHO DE 2000, QUE AUTORIZA O EXECUTIVO A REGULARIZAR OS LOTEAMENTOS DENOMINADOS SETORES 18 E 34, NO PERÍMETRO URBANO DE VILHENA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
