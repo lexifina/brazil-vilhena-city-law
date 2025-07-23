@@ -1,0 +1,2 @@
+# LEI Nº 6.548, DE 21 DE JULHO DE 2025 DISPÕE SOBRE A APLICAÇÃO DE MEDIDAS ADMINISTRATIVAS DE PREVENÇÃO E COMBATE AO ROUBO, FURTO E RECEPTAÇÃO DE CABOS, FIOS METÁLICOS, GERADORES, BATERIAS, TRANSFORMADORES E PLACAS METÁLICAS NO MUNICÍPIO DE VILHENA.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
