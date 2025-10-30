@@ -1,0 +1,2 @@
+# LEI Nº 6.593, DE 30 DE OUTUBRO DE 2025 DENOMINA RUA CECÍLIA PETTER GOLDSCHMIDT A ATUAL RUA 5308 E A RUA 5305 (PROLONGAMENTO), NO SETOR 53 - PIONEIRO.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
