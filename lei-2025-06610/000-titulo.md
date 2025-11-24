@@ -1,0 +1,2 @@
+# LEI Nº 6.610, DE 19 DE NOVEMBRO DE 2025 ALTERA A LEI Nº 5.790, DE 14 DE JUNHO DE 2022, QUE INSTITUI O PLANO DE CARREIRA, CARGOS E REMUNERAÇÃO DOS SERVIDORES PÚBLICOS DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
