@@ -1,0 +1,2 @@
+# LEI Nº 6.619, DE 2 DE DEZEMBRO DE 2025 DISPÕE SOBRE O PAGAMENTO DO AUXÍLIO-FARDAMENTO E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
