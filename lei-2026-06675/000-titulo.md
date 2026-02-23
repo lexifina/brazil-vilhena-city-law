@@ -1,0 +1,2 @@
+# LEI Nº 6.675, DE 23 DE FEVEREIRO DE 2026 ALTERA A LEI Nº 5.773, DE 20 DE MAIO DE 2022, QUE DISPÕE SOBRE A PRESTAÇÃO DOS SERVIÇOS FUNERÁRIOS E A ADMINISTRAÇÃO DOS CEMITÉRIOS PÚBLICOS E PRIVADOS NO MUNICÍPIO DE VILHENA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
