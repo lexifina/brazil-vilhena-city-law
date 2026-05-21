@@ -1,0 +1,2 @@
+# LEI Nº 6.776, DE 21 DE MAIO DE 2026 ESTABELE DIRETRIZES GERAIS PARA A INSTALAÇÃO DE RAMAIS DE LIGAÇÃO DE ÁGUA NAS VIAS PÚBLICAS ANTES DA EXECUÇÃO DE OBRAS DE PAVIMENTAÇÃO ASFÁLTICA.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
