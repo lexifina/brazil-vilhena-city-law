@@ -1,0 +1,2 @@
+# LEI Nº 6.787, DE 2 DE JUNHO DE 2026 ALTERA A LEI 5.967, DE 29 DE DEZEMBRO DE 2022, QUE DETERMINA A TRANSFERÊNCIA DA TITULARIDADE DA CONTA DE ÁGUA PARA O NOME DO LOCATÁRIO DO IMÓVEL.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
