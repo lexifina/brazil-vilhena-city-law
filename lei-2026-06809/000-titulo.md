@@ -1,0 +1,2 @@
+# LEI Nº 6.809, DE 9 DE JUNHO DE 2026 DISPÕE SOBRE A DIVULGAÇÃO DA DEMANDA ATENDIDA E DA LISTA DE ESPERA POR VAGAS NAS ESCOLAS DA REDE PÚBLICA MUNICIPAL DE ENSINO, INCLUSIVE NAS CRECHES DO MUNICÍPIO DE VILHENA.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
