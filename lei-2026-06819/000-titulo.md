@@ -1,0 +1,2 @@
+# LEI Nº 6.819, DE 17 DE JUNHO DE 2026 INSTITUI O PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS 2026 DO MUNICÍPIO DE VILHENA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
