@@ -1,0 +1,2 @@
+# LEI Nº 6.832, DE 14 DE JULHO DE 2026 AUTORIZA O PODER EXECUTIVO A DOAR, COM ENCARGOS, AO GOVERNO DO ESTADO DE RONDÔNIA O IMÓVEL ONDE SE SITUA O HOSPITAL REGIONAL ADAMASTOR TEIXEIRA DE OLIVEIRA - HRV E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
