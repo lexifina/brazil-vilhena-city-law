@@ -1,0 +1,2 @@
+# LEI Nº 6.900, DE 19 DE AGOSTO DE 2026 AUTORIZA O MUNICÍPIO DE VILHENA A PROMOVER A REVERSÃO, POR DESCUMPRIMENTO DE ENCARGO, DA DOAÇÃO DO IMÓVEL QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
