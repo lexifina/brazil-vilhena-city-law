@@ -1,0 +1,2 @@
+# LEI Nº 6.902, DE 8 DE SETEMBRO DE 2026 INSTITUI O DIA MUNICIPAL DA PESSOA SURDA E A SEMANA DE CONSCIENTIZAÇÃO SOBRE A INCLUSÃO DA PESSOA SURDA E DA PESSOA COM DEFICIÊNCIA AUDITIVA NO CALENDÁRIO OFICIAL DO MUNICÍPIO.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
