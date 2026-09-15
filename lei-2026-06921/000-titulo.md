@@ -1,0 +1,2 @@
+# LEI Nº 6.921, DE 15 DE SETEMBRO DE 2026 ALTERA A LEI Nº 5.098, DE 21 DE JUNHO DE 2019, QUE AUTORIZA O PODER EXECUTIVO A CONTRATAR FINANCIAMENTO COM A CAIXA ECONÔMICA FEDERAL - CEF, A OFERECER GARANTIAS E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
