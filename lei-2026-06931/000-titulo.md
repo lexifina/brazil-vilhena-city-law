@@ -1,0 +1,2 @@
+# LEI Nº 6.931, DE 22 DE SETEMBRO DE 2026 ALTERA AS LEIS Nº 5.790, Nº 5.791, Nº 5.792, Nº 5.793 E Nº 5.794, TODAS DE 14 DE JUNHO DE 2022, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
