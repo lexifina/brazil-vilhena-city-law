@@ -1,0 +1,2 @@
+# LEI Nº 6.939, DE 7 DE OUTUBRO DE 2026 AUTORIZA O PODER EXECUTIVO A DECLARAR INEXIGÍVEL O CHAMAMENTO PÚBLICO COM FUNDAMENTO NO ART. 31 DA LEI Nº 13.019/2014 E A REALIZAR PARCERIA COM A ENTIDADE QUE ESPECIFICA.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
