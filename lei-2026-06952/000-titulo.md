@@ -1,0 +1,2 @@
+# LEI Nº 6.952, DE 16 DE OUTUBRO DE 2026 DISPÕE SOBRE O RECONHECIMENTO E A AUTORIZAÇÃO PARA PAGAMENTO RETROATIVO DE VANTAGENS TEMPORAIS AOS SERVIDORES DA CÂMARA DE VEREADORES DE VILHENA, NOS TERMOS DO ART. 8º-A DA LEI COMPLEMENTAR FEDERAL Nº 173, DE 27 DE MAIO DE 2020.
+O PREFEITO DO MUNICÍPIO DE VILHENA, Estado de Rondônia, no exercício regular de seu cargo e no uso das atribuições que lhe confere o artigo 73 combinado com o inciso VI do artigo 96 da Lei Orgânica do Município, FAZ SABER, que a Câmara Municipal de Vilhena aprovou e ele sanciona e promulga a seguinte L E I:
