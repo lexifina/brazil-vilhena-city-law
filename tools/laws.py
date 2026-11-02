@@ -89,6 +89,12 @@ def file_url(r):
     return u.replace('http://', 'https://', 1)
 
 
+def gone(url):
+    """sapl-runner (11-05): the file is not served: a remembered 404/410, or 3 time-outs (<raw>.skip)."""
+    p = RAW / sha(url.encode())
+    return Path(str(p) + '.404').exists() or Path(str(p) + '.skip').exists()
+
+
 def furniture(pages):
     """Normalised lines (digits as #) seen among the first or last 4 lines of two or more pages."""
     seen = {}
@@ -149,7 +155,7 @@ def law_act(r, kind, today):
         return None, {}, 'no file in SAPL'
     p = RAW / sha(url.encode())
     if not p.exists():
-        return None, {}, 'not fetched'
+        return None, {}, 'file not served (404 or repeated time-outs)' if gone(url) else 'not fetched'
     b = p.read_bytes()
     if b[:5] != b'%PDF-':
         return None, {}, 'not a PDF'
@@ -234,7 +240,7 @@ def main():
         reg.pop(name)
         (HERE / 'corpus.d' / f'{name}.json').unlink(missing_ok=True)
     rest = [r for r in idx['records'] if r['id'] not in done]
-    if any(file_url(r) and not (RAW / sha(file_url(r).encode())).exists() for r in rest):
+    if any(file_url(r) and not (RAW / sha(file_url(r).encode())).exists() and not gone(file_url(r)) for r in rest):
         print('not every file fetched yet: no part written')
         return
     n0 = max([int(k.rsplit('-', 1)[1]) for k in reg] or [0])
