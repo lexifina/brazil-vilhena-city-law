@@ -1,0 +1,2483 @@
+{
+ "country": "BR-RO-VILHENA",
+ "acts": [
+  {
+   "slug": "lei-2026-06952",
+   "short": "Lei 6952/2026",
+   "title": "Lei nº 6.952, de 16 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2144",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 9,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2144/lei_no_6.952_2026_-_disp_e_sobre_o_reconhecimento_e_a_autoriza__o_para_pagamento_retroativo_de_vantagens_temporais_aos_servidores_da_c_mara_de_vereadores_de_vilhena_1.pdf",
+     "sha256": "7622820ca127993a3381ef31f27e03d20ff8b5b7e2139ebb0469ecf5bad52434"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06951",
+   "short": "Lei 6951/2026",
+   "title": "Lei nº 6.951, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2143",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2143/lei_no_6.951.pdf",
+     "sha256": "d899bb133c255d5f4f7324a1d9e0579be832053a8692874ee4cdeae195c939bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06950",
+   "short": "Lei 6950/2026",
+   "title": "Lei nº 6.950, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2142",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2142/lei_no_6.950.pdf",
+     "sha256": "ec19fe677a2505691de6ca60a200cc7f88e91dcd7573612f4c265922d04316fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06949",
+   "short": "Lei 6949/2026",
+   "title": "Lei nº 6.949, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2141",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2141/lei_no_6.949.pdf",
+     "sha256": "c533afeef8487be74ab66c26b26cee4018945d736ad6a7f6d9c11b0d50c7ac45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06948",
+   "short": "Lei 6948/2026",
+   "title": "Lei nº 6.948, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2140",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2140/lei_no_6.948.pdf",
+     "sha256": "442f90d255089367e3700215f9f10ccaa6e12cb380da7a9efe8449a1900dfe86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06947",
+   "short": "Lei 6947/2026",
+   "title": "Lei nº 6.947, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2139",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2139/lei_no_6.947.pdf",
+     "sha256": "508b00f315b2fe6e4f48bc929db926e9c22c0a02574b6476b96787427769bca0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06946",
+   "short": "Lei 6946/2026",
+   "title": "Lei nº 6.946, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2138",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2138/lei_no_6.946.pdf",
+     "sha256": "8c5e2ec27776b88307002382e90983b857127649bf62c74e5253cecf8cc739f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06945",
+   "short": "Lei 6945/2026",
+   "title": "Lei nº 6.945, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2137",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2137/lei_no_6.945.pdf",
+     "sha256": "926a4804280c6379093fe99b8cb1db2d8743e3b2c2126e47b967392c39f690e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06944",
+   "short": "Lei 6944/2026",
+   "title": "Lei nº 6.944, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2136",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2136/lei_no_6.944.pdf",
+     "sha256": "2de0e92a4203a6282c50cf158917f87dba60989ad04b29209eaf177fdb3671dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06943",
+   "short": "Lei 6943/2026",
+   "title": "Lei nº 6.943, de 14 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2135",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2135/lei_no_6.943.pdf",
+     "sha256": "3bd68731898dfb97f44e5eec048dfaa36f2eeb0764a277b0888449361a9aac5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06942",
+   "short": "Lei 6942/2026",
+   "title": "Lei nº 6.942, de 13 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2134",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 14,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2134/lei_no_6.942__de_13_de_outubro_de_2026_-_manejo_arboreo.pdf",
+     "sha256": "3d6f9c023304e55a940fc5f2574ae27957af1cad845781e882f6b672e6d5bb96"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06941",
+   "short": "Lei 6941/2026",
+   "title": "Lei nº 6.941, de 13 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2133",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 9,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2133/lei_no_6.941_2026_-_autoriza_o_poder_executivo_a_instituir_a_central_municipal_de_interpreta_assinado.pdf",
+     "sha256": "87d8fbe818b98684a13f87f9a0e46603dba36e3aebe1d3a451ea8a9a3b1e4545"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06940",
+   "short": "Lei 6940/2026",
+   "title": "Lei nº 6.940, de 7 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2089",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2089/lei_no_6.940_de_07_de_outubro_de_2026_-altera_o_pccr_saude_-_vacinador.pdf",
+     "sha256": "ad461037e707391c3c5acdeddefdc306932ae1b7af58195d12832f1041d0ca87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06939",
+   "short": "Lei 6939/2026",
+   "title": "Lei nº 6.939, de 7 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2088",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 6,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2088/lei_no_6.939_de_07_de_outubro_de_2026_-autoriza_o_poder_executivo_a_declarar_inexigivel_o_chamamento_publico_norte_fenix.pdf",
+     "sha256": "d7a30965bf47307955cd63f46da1c680afc554f8d2a3c2a1509b81c1ce8ee6ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06938",
+   "short": "Lei 6938/2026",
+   "title": "Lei nº 6.938, de 7 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2104",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2104/lei_no_6.938_de_07_de_outubro_de_2026_-_denomina_rua_professora_aide_batista_possebon.pdf",
+     "sha256": "37872cb42f738103aeac4ea60b191a2696084a43fc9ee04546e8cdc8d07a8501"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06937",
+   "short": "Lei 6937/2026",
+   "title": "Lei nº 6.937, de 6 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2087",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2087/lei_no_6.937.pdf",
+     "sha256": "5661d185172114579d070b2cc7d020ec674fac397bf00339e92b45ed0c2f5b08"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06936",
+   "short": "Lei 6936/2026",
+   "title": "Lei nº 6.936, de 6 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2086",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2086/lei_no_6.936.pdf",
+     "sha256": "1a08db85e933f6fd3c6619f9f9cfb9ae99639aa7b379ba92f3bac47becf4c721"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06935",
+   "short": "Lei 6935/2026",
+   "title": "Lei nº 6.935, de 6 de outubro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2085",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2085/lei_no_6.935.pdf",
+     "sha256": "4631c4d51a93cc7c8f7a00bb662a8232e001f94a9c0fc7ef95598a1577424c1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06934",
+   "short": "Lei 6934/2026",
+   "title": "Lei nº 6.934, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2025",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2025/lei_no_6.934_de_22_de_setembro_de_2026_-_altera_a_lei_6.848_2026_-_ipmv.pdf",
+     "sha256": "1fb500b7df29870e526f969d108f080f67f994667fdbc8b04a1e64468f2a13d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06933",
+   "short": "Lei 6933/2026",
+   "title": "Lei nº 6.933, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2026",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2026/lei_no_6.933_de_22_de_setembro_de_2026_-_altera_a_lei_6.708_2025_-_setor_19.pdf",
+     "sha256": "e99014d3b34588a833d0a1cfb7be673753dcbcf434c11650df4f47140c05371d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06932",
+   "short": "Lei 6932/2026",
+   "title": "Lei nº 6.932, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2027",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2027/lei_no_6.932_de_22_de_setembro_de_2026_-_altera_a_lei_6.785_2026_-_setor_13.pdf",
+     "sha256": "b082d943866e81de4580313822a3ee78f5d31774086bd5a735fe2b15d21c1224"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06931",
+   "short": "Lei 6931/2026",
+   "title": "Lei nº 6.931, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2028",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2028/lei_no_6.931_de_22_de_setembro_de_2026_-_altera_pccr.pdf",
+     "sha256": "6f4868cd877dc3e8c340b8ae750e1eca2a2840b194eaa2a6cb9880b3580af53b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06930",
+   "short": "Lei 6930/2026",
+   "title": "Lei nº 6.930, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2038",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2038/lei_no_6.930_de_22_de_setembro_de_2026_-_denomina_avenida_frieda_kotlar.pdf",
+     "sha256": "d3168af0c1f9bdd587cf400213ebf751b6362c3cdc854c9b25c3e2597eec4e60"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06929",
+   "short": "Lei 6929/2026",
+   "title": "Lei nº 6.929, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2036",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2036/lei_no_6.929.pdf",
+     "sha256": "f3127c9ba1d0dfdcf124f7258da8fbe67b452a34343dee8352450866ed8d48c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06928",
+   "short": "Lei 6928/2026",
+   "title": "Lei nº 6.928, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2035",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2035/lei_no_6.928.pdf",
+     "sha256": "fc27761b84773c728a5f7757031b30fa159ed679de79f22dc22167aaff2a75ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06927",
+   "short": "Lei 6927/2026",
+   "title": "Lei nº 6.927, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2034",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2034/lei_no_6.927.pdf",
+     "sha256": "ee5196928028ee3aa1fb2529b783018e301c279fd0e3cefe11af39dbb1c38fcb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06926",
+   "short": "Lei 6926/2026",
+   "title": "Lei nº 6.926, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2033",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2033/lei_no_6.926.pdf",
+     "sha256": "ac250fc53dec722fd8bc37279d3ed7bfb045400ccc27a86085b4114aa5804856"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06925",
+   "short": "Lei 6925/2026",
+   "title": "Lei nº 6.925, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2032",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2032/lei_no_6.925.pdf",
+     "sha256": "4004442809cfe8d99342f7f64ecf13673f2bca1d2ec505e4a80955fe0db25344"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06924",
+   "short": "Lei 6924/2026",
+   "title": "Lei nº 6.924, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2031",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2031/lei_no_6.924.pdf",
+     "sha256": "c77db6dc44fdb1e3eb67da61d45f7702d80e50f78b9f3b0af88746f003524647"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06923",
+   "short": "Lei 6923/2026",
+   "title": "Lei nº 6.923, de 22 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2030",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2030/lei_no_6.923.pdf",
+     "sha256": "721694dcf137376d4435e96be461c8d2af671247e09936401a546d88152b0142"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06922",
+   "short": "Lei 6922/2026",
+   "title": "Lei nº 6.922, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2040",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 76,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2040/lei_no_6.922_de_15_de_setembro_de_2026_-_dispoe_sobre_o_sistema_de_controle_interno_1.pdf",
+     "sha256": "6a5c059e30d8e9e882c45158e093fa09b3bdd0a9422027610093d169c0291ea7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06921",
+   "short": "Lei 6921/2026",
+   "title": "Lei nº 6.921, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2039",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2039/lei_no_6.921_de_15_de_setembro_de_2026_-_altera_a_lei_5.098_2019_finisa_1.pdf",
+     "sha256": "afc1418b8bab49d73352837afe633e4b22e44607b47c3eb8ee1f05b6d932f4c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06920",
+   "short": "Lei 6920/2026",
+   "title": "Lei nº 6.920, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2023",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2023/lei_no_6.920_-_2026.pdf",
+     "sha256": "0d08cac8c180e11d3a34ae3ae3bb5e23445b9ebc1e852d8bb91f4d2028761f7a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06919",
+   "short": "Lei 6919/2026",
+   "title": "Lei nº 6.919, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2022",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2022/lei_no_6.919_-_2026.pdf",
+     "sha256": "e83579880f26bfc90a29543ec6088a25b5e1c7688006ceb2809aef1d1a2c9d8e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06918",
+   "short": "Lei 6918/2026",
+   "title": "Lei nº 6.918, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2021",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2021/lei_no_6.918_-_2026.pdf",
+     "sha256": "d73c1262219c4fddace2bcb0a28125a28758ae217827c57612b19ae56e54060d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06917",
+   "short": "Lei 6917/2026",
+   "title": "Lei nº 6.917, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2020",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2020/lei_no_6.917_-_2026.pdf",
+     "sha256": "58f6c4647375a6c99b32e22acfd34f03c8cb09a41957813c869d5f6403f431d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06916",
+   "short": "Lei 6916/2026",
+   "title": "Lei nº 6.916, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2019",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2019/lei_no_6.916_-_2026.pdf",
+     "sha256": "f4ba5454581be1c260231129373e2495c227be5eb0dfff12ecbe3a36e5e0418d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06915",
+   "short": "Lei 6915/2026",
+   "title": "Lei nº 6.915, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2018",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2018/lei_no_6.915_-_2026.pdf",
+     "sha256": "c29331f0f80821c080288efc4159c10a73169a26584480c27f44cf633d931172"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06914",
+   "short": "Lei 6914/2026",
+   "title": "Lei nº 6.914, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2017",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2017/lei_no_6.914_-_2026.pdf",
+     "sha256": "88abe924974dfe0fc0ede0fdcf315fb874f70fa723ac37ae8f3572aa79d413e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06913",
+   "short": "Lei 6913/2026",
+   "title": "Lei nº 6.913, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2016",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2016/lei_no_6.913_-_2026.pdf",
+     "sha256": "a100c9b8651ee34659d81bb1260cf7cc247647e8634af7a6c2fdc3049f3ed7ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06912",
+   "short": "Lei 6912/2026",
+   "title": "Lei nº 6.912, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2015",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2015/lei_no_6.912_-_2026.pdf",
+     "sha256": "fa1a04efafb33b780bb032592d2e07a606b56c42421959b8508e579f374734c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06911",
+   "short": "Lei 6911/2026",
+   "title": "Lei nº 6.911, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2014",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2014/lei_no_6.911_-_2026.pdf",
+     "sha256": "754e461981d7461daa601e59898ef573451a5524555efa5834ae0790c8f3a156"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06910",
+   "short": "Lei 6910/2026",
+   "title": "Lei nº 6.910, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2013",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2013/lei_no_6.910_-_2026.pdf",
+     "sha256": "db2b2ac14133150460d318879feca22172ce57131c00e05b3f790aad2e276b94"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06909",
+   "short": "Lei 6909/2026",
+   "title": "Lei nº 6.909, de 15 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2012",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2012/lei_no_6.909_-_2026.pdf",
+     "sha256": "ce656472b3d85645231bc02014aa1d2e91cc96311e396f274b291c240b340c41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06907",
+   "short": "Lei 6907/2026",
+   "title": "Lei nº 6.907, de 10 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2011",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 7,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2011/lei_no_6.907_de_10_de_setembro_de_2026_-_institui_o_diploma_aluno_nota_10.pdf",
+     "sha256": "cad51a6e8019d21f00a517d084d9a0470e604ce5127d5b969f18da8940201c72"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06906",
+   "short": "Lei 6906/2026",
+   "title": "Lei nº 6.906, de 10 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2029",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 6,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2029/lei_no_6.906_de_10_de_setembro_de_2026_-_autoriza_declarar_inexigivel_retificada.pdf",
+     "sha256": "4355949ac11ca1cc51b5f1fc6fe9c6c081578e7f160c0cd51ce87da9adf6de53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06905",
+   "short": "Lei 6905/2026",
+   "title": "Lei nº 6.905, de 10 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2010",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2010/lei_no_6.905_-_2026.pdf",
+     "sha256": "84495506dc8fdde69364cea24dc09da25a6ce524729b95cf4867862453f640d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06904",
+   "short": "Lei 6904/2026",
+   "title": "Lei nº 6.904, de 10 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2009",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2009/lei_no_6.904_-_2026.pdf",
+     "sha256": "afb96c7cbc32c2b335f2ae2caed72db47840b468e4cfba4cdb18bfb815af5bda"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06903",
+   "short": "Lei 6903/2026",
+   "title": "Lei nº 6.903, de 8 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2008",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 9,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2008/lei_no_6.903_2026_-_guardioes_do_meio_ambiente.pdf",
+     "sha256": "c1c7afd0c6604b41c1fc95719ac13bfe3f1176d2226e9a0d316a3f1b08f18434"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06902",
+   "short": "Lei 6902/2026",
+   "title": "Lei nº 6.902, de 8 de setembro de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2007",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2007/lei_no_6.902_2026_-institui_o_dia_municipal_da_pessoa_surda_e_a_semana_de_conscientizacao_sobre_a_incusao_da_pessoa_surda.pdf",
+     "sha256": "8c5def1901f8512e2f533305ee68b99c3fd9d5bafe8e77d7563e33f3dfc9d35a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06900",
+   "short": "Lei 6900/2026",
+   "title": "Lei nº 6.900, de 19 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2005",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 8,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2005/lei_no_6.900_2026_-_autoriza_o_municipio_de_vilhena_a_promover_a_reversao.pdf",
+     "sha256": "fb10587997f70ac1aab0c2983bb30f1cc61c71df424d3c838c19d965b131e579"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06898",
+   "short": "Lei 6898/2026",
+   "title": "Lei nº 6.898, de 19 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1999",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1999/lei_no_6.898_2026_-_denomina_rua_manoel_jose_ribeiro.pdf",
+     "sha256": "c9a24bb963aeb4a574f9f14d426431b68a039187954a78b8b80d0d094113e500"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06897",
+   "short": "Lei 6897/2026",
+   "title": "Lei nº 6.897, de 19 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2000",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2000/lei_no_6.897_2026_-_denomina_rua_professora_norma_de_almeida.pdf",
+     "sha256": "cf28ec056149eeafc5e8c5952c7a03da95ea23ec2205f5e899f5662a442a2524"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06896",
+   "short": "Lei 6896/2026",
+   "title": "Lei nº 6.896, de 19 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2004",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2004/lei_no_6.896_2026_-_denomina_rua_celso_de_almeida.pdf",
+     "sha256": "5572b27280f8b9d9c02e202d2eba75c19b20bd675843deb9d5bc03aaec8390b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06895",
+   "short": "Lei 6895/2026",
+   "title": "Lei nº 6.895, de 19 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2003",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2003/lei_no_6.895_2026_-_denomina_avenida_ana_alice_freitas_da_rosa.pdf",
+     "sha256": "5acdaa4cfbd61d076a8a8ac7ec062b22831a3a84ae4170fd0614f752d5be5a5e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06894",
+   "short": "Lei 6894/2026",
+   "title": "Lei nº 6.894, de 19 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2002",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2002/lei_no_6.894_2026_-_denomina_rua_washington_luiz_jaremko.pdf",
+     "sha256": "4ffd94c90ad1a00f52e156f1b4b1fc2cfc7ff203395e61f27da72b906fb29e6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06893",
+   "short": "Lei 6893/2026",
+   "title": "Lei nº 6.893, de 18 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/2001",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/2001/lei_no_6.893.pdf",
+     "sha256": "677debbb82b64bd666d63ef84b923f5ec0057d1d1cf0929d30591001f69aab05"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06892",
+   "short": "Lei 6892/2026",
+   "title": "Lei nº 6.892, de 18 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1997",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1997/lei_no_6.892.pdf",
+     "sha256": "9ed8b45ea33ba7089e8f46d0512aed51ce6dc34887025913b4e7079c202c81ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06891",
+   "short": "Lei 6891/2026",
+   "title": "Lei nº 6.891, de 18 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1996",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1996/lei_no_6.891.pdf",
+     "sha256": "809b8e837a2801d94804b5061906352591db24127e0c25fb965557b74e718d13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06890",
+   "short": "Lei 6890/2026",
+   "title": "Lei nº 6.890, de 18 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1995",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1995/lei_no_6.890.pdf",
+     "sha256": "8c58c79e50b5cda1f8e568730a540fef1f8f2e768d49e3aa44a94dd699a93454"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06889",
+   "short": "Lei 6889/2026",
+   "title": "Lei nº 6.889, de 18 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1994",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1994/lei_no_6.889.pdf",
+     "sha256": "659b85c21560796ca67c8a0c6fa7e8b1e539110a6be68129475c8ef8f880bf4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06888",
+   "short": "Lei 6888/2026",
+   "title": "Lei nº 6.888, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1993",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 10,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1993/lei_no_6.888_de_11_de_agosto_de_2026.pdf",
+     "sha256": "c72884d6fa3e82cdbb5a3fb5075af9e770557a8f6eafa83314ef8d98ff8152b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06887",
+   "short": "Lei 6887/2026",
+   "title": "Lei nº 6.887, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1992",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 6,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1992/lei_no_6.887_de_11_de_agosto_de_2026.pdf",
+     "sha256": "abc4b4dab92ca6507f359c4e6dbce634232bd1ee32abcabdf3dfb9e0f976546f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06886",
+   "short": "Lei 6886/2026",
+   "title": "Lei nº 6.886, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1991",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1991/lei_no_6.886_de_11_de_agosto_de_2026.pdf",
+     "sha256": "59cf5b4f4f459e664f8229eee79b65ea2aa06654945b2bf614db9faded663214"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06885",
+   "short": "Lei 6885/2026",
+   "title": "Lei nº 6.885, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1990",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1990/lei_no_6.885.pdf",
+     "sha256": "d10a06f1c4019cc677ebf4c381d5af2425d72a7421e4b980f4a0df181f57f6a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06884",
+   "short": "Lei 6884/2026",
+   "title": "Lei nº 6.884, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1989",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1989/lei_no_6.884.pdf",
+     "sha256": "3ee350788b746106d403dde25e5d09f38874cddc984f96e1752f1ba8fd761ea2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06883",
+   "short": "Lei 6883/2026",
+   "title": "Lei nº 6.883, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1988",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1988/lei_no_6.883.pdf",
+     "sha256": "908b0a81bb7c91aad2e6e2113ad842efbe36bd0fd9cf7accdb20e798b0533aec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06882",
+   "short": "Lei 6882/2026",
+   "title": "Lei nº 6.882, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1987",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1987/lei_no_6.882.pdf",
+     "sha256": "535da5fb8a60893b6f944bf781f6b086837537990b31f333729e86495bf2d6b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06881",
+   "short": "Lei 6881/2026",
+   "title": "Lei nº 6.881, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1986",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1986/lei_no_6.881.pdf",
+     "sha256": "cf02138afa0b0f6e6c74442ae55a22e62ad565dbdd359d2c684ea4fb4bd361d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06880",
+   "short": "Lei 6880/2026",
+   "title": "Lei nº 6.880, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1985",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1985/lei_no_6.880.pdf",
+     "sha256": "492b7a5eceb3ed5260130901015471293757b8154a4499e966a112105ab2d3f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06879",
+   "short": "Lei 6879/2026",
+   "title": "Lei nº 6.879, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1984",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1984/lei_no_6.879.pdf",
+     "sha256": "e14c40fecf628d9ac35b52b592dab8ceec0bc0c35fa7dae7f499a7663199d79a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06878",
+   "short": "Lei 6878/2026",
+   "title": "Lei nº 6.878, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1983",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1983/lei_no_6.878.pdf",
+     "sha256": "8a68b22c343a759a8750a5350da041064355a3bd32363a4989beb96bdefe9de1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06877",
+   "short": "Lei 6877/2026",
+   "title": "Lei nº 6.877, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1982",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1982/lei_no_6.877.pdf",
+     "sha256": "fbaf4a420b1256bc19feedddc31187b61fbfb1e4c589d5925c9d8b05487bd993"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06876",
+   "short": "Lei 6876/2026",
+   "title": "Lei nº 6.876, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1981",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1981/lei_no_6.876.pdf",
+     "sha256": "b83cbd91c21dd4a7a8b8f61a67d5d8b7667af67c730b4085ac4be43021a726bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06875",
+   "short": "Lei 6875/2026",
+   "title": "Lei nº 6.875, de 11 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1980",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1980/lei_no_6.875.pdf",
+     "sha256": "d73668c37aa582092e4de03395bd8652dccb7c71db604cdfe515b01193d64b69"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06874",
+   "short": "Lei 6874/2026",
+   "title": "Lei nº 6.874, de 5 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1979",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1979/lei_no_6.874.pdf",
+     "sha256": "fee09a85017ae08b5d0310bc8817e732bafbaba2ef2c52bb1ff3be7efc4daa50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06871",
+   "short": "Lei 6871/2026",
+   "title": "Lei nº 6.871, de 5 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1976",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1976/lei_no_6.871.pdf",
+     "sha256": "4ca0f6800dfbf0b7837651c23b93367b5f14caf447fd2f9665406cb98f5582f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06870",
+   "short": "Lei 6870/2026",
+   "title": "Lei nº 6.870, de 5 de agosto de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1975",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1975/lei_no_6.870.pdf",
+     "sha256": "64b31569f8d83a086580e83780f565b1c99194fffaff4729fa784c1841d6099e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06869",
+   "short": "Lei 6869/2026",
+   "title": "Lei nº 6.869, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1974",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1974/lei_no_6.869.pdf",
+     "sha256": "f79dbafe97b9356c77cb09a299630522625fd3359a44718d9ad6e23abe0d5b7f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06868",
+   "short": "Lei 6868/2026",
+   "title": "Lei nº 6.868, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1973",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1973/lei_no_6.868.pdf",
+     "sha256": "59d728a7b448a4ec4887365f88218115937a75b5f7f9badaa25db39816d2f193"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06867",
+   "short": "Lei 6867/2026",
+   "title": "Lei nº 6.867, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1972",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1972/lei_no_6.867.pdf",
+     "sha256": "23b21881910e45c239472b9d01684511dbef3852ba120adfda18b377a16abe5e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06866",
+   "short": "Lei 6866/2026",
+   "title": "Lei nº 6.866, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1971",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1971/lei_no_6.866.pdf",
+     "sha256": "ebf120f1ce4a1863732156c0110fa9ed8c117b396b1da38572f25ac42abb676c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06865",
+   "short": "Lei 6865/2026",
+   "title": "Lei nº 6.865, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1969",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1969/lei_no_6.865.pdf",
+     "sha256": "9c7bf4ca02098199af0b1247d5cdd667b97e35122e5a3621d536a47276a8991e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06864",
+   "short": "Lei 6864/2026",
+   "title": "Lei nº 6.864, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1968",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1968/lei_no_6.864.pdf",
+     "sha256": "271b93b2429ee8661c687cae9a8b2416d02504a68441aa596c274a28476f4024"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06863",
+   "short": "Lei 6863/2026",
+   "title": "Lei nº 6.863, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1967",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1967/lei_no_6.863.pdf",
+     "sha256": "c153c747d2f2285e9fde9b7f5c5e7aca351ee2a7887ec46d4040d853182e5c47"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06862",
+   "short": "Lei 6862/2026",
+   "title": "Lei nº 6.862, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1966",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1966/lei_no_6.862.pdf",
+     "sha256": "43046d1ec85a3b6abf0d3b5d021f40f010e87a57309713662f04badb2dffd5f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06861",
+   "short": "Lei 6861/2026",
+   "title": "Lei nº 6.861, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1965",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1965/lei_no_6.861.pdf",
+     "sha256": "5fa94f09d6b0b9949996536a857d1fee421203557b9f360fda8f4b84798031b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06860",
+   "short": "Lei 6860/2026",
+   "title": "Lei nº 6.860, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1964",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1964/lei_no_6.860.pdf",
+     "sha256": "cce5c48790e621f5963919448785cb44edc590611c477f845b4e63029cd28001"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06859",
+   "short": "Lei 6859/2026",
+   "title": "Lei nº 6.859, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1963",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1963/lei_no_6.859.pdf",
+     "sha256": "a57069b34fca1f792ecdaa535abc29bdaf38a68a81f3971c10263ed701b0f442"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06858",
+   "short": "Lei 6858/2026",
+   "title": "Lei nº 6.858, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1961",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1961/lei_no_6.858.pdf",
+     "sha256": "3d7c6ba91ddb8233a9e6158e82711910299ff740fe35ac3724eaf94e063b6e68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06857",
+   "short": "Lei 6857/2026",
+   "title": "Lei nº 6.857, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1960",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1960/lei_no_6.857.pdf",
+     "sha256": "fbfd35bd21b253628611526812ce17dc33f1c6af280e3ab7ed006dbbee90691b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06856",
+   "short": "Lei 6856/2026",
+   "title": "Lei nº 6.856, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1959",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 6,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1959/lei_no_6.856.pdf",
+     "sha256": "7f0ca372cb13576b93deda94a4f20335b2c227d0a3d7c2c25b5dfcd74b474e78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06855",
+   "short": "Lei 6855/2026",
+   "title": "Lei nº 6.855, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1958",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1958/lei_no_6.855.pdf",
+     "sha256": "2bafd999883dbc9b8c40c5323812c71c222e38290928704d04521138e417603b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06854",
+   "short": "Lei 6854/2026",
+   "title": "Lei nº 6.854, de 31 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1957",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1957/lei_no_6.854.pdf",
+     "sha256": "a0f36aae14ede250ba2e6ccea7d6297515eac6eca4b22c61113be8a7c1bf5642"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06853",
+   "short": "Lei 6853/2026",
+   "title": "Lei nº 6.853, de 30 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1956",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1956/lei_no_6.853_2026_-_altera_a_estrutura.pdf",
+     "sha256": "c2fe86be052c792f9943678ec2e54549faf7e5253c484f8f36e8c9c1188c2c59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06852",
+   "short": "Lei 6852/2026",
+   "title": "Lei nº 6.852, de 16 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1955",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1955/lei_no_6.852_2026_denomina_escola_municipal_de_ensino_fundamental_almirante_tamandare.pdf",
+     "sha256": "62cea37b4e3d822a1bbc412d107e104f6a33e85c14072f459ae209eff9692afd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06851",
+   "short": "Lei 6851/2026",
+   "title": "Lei nº 6.851, de 16 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1954",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 14,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1954/lei_no_6.851_2026_institui_o_forum_municipal_de_educacao.pdf",
+     "sha256": "cbabceb8d28452e48462967d02eb4a26d2f638dec7b68d9f096e3455d76f7c4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06850",
+   "short": "Lei 6850/2026",
+   "title": "Lei nº 6.850, de 16 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1953",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 14,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1953/lei_no_6.850_-_2026_-_institui_o_forum_dos_conselhos_escolares.pdf",
+     "sha256": "ce583e372668839155eace7fa8ab1b730120044345e5fa2ebf02436c214f2bea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06849",
+   "short": "Lei 6849/2026",
+   "title": "Lei nº 6.849, de 16 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1952",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1952/lei_no_6.849_2026_-_altera_a_lei_no_4716_de_26_de_outubro_de_2017_que_dispoe_sobre_a_criacao_e_a_regulamentacao_do_programa_regulariza_v.pdf",
+     "sha256": "4e2bc31867578b5d054102a551199af02effa993553447aa91efbb1355cfee4a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06847",
+   "short": "Lei 6847/2026",
+   "title": "Lei nº 6.847, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1950",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1950/lei_no_6.847.pdf",
+     "sha256": "0152e45695eb472498039f24b60c2d4a1e376f49829e22764f1bddb100a1f6be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06846",
+   "short": "Lei 6846/2026",
+   "title": "Lei nº 6.846, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1949",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1949/lei_no_6.846.pdf",
+     "sha256": "64d6b5cb6288e2ab0f66ad93f53988feb5aabc5376c926287b5d68a828aee4ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06845",
+   "short": "Lei 6845/2026",
+   "title": "Lei nº 6.845, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1948",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1948/lei_no_6.845.pdf",
+     "sha256": "891a2e47e9985ee9d0dea3b0651d3e05c96f95f5c93c495ce9a36c1f0ab2a926"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06844",
+   "short": "Lei 6844/2026",
+   "title": "Lei nº 6.844, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1947",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1947/lei_no_6.844.pdf",
+     "sha256": "f79ec2a6ca252205e5df1193ff85a2a6ced43575c9c93b13a461b4ef3dc835f3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06843",
+   "short": "Lei 6843/2026",
+   "title": "Lei nº 6.843, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1946",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1946/lei_no_6.843.pdf",
+     "sha256": "8967373a96be783014203f933afeedd8f6f84f763177d6fd7ee4e2f190e67057"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06842",
+   "short": "Lei 6842/2026",
+   "title": "Lei nº 6.842, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1945",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1945/lei_no_6.842.pdf",
+     "sha256": "a90c6fddeff8a965a4da1564e523e701d7234623ba31a9ca8dd374bc7e2a2227"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06841",
+   "short": "Lei 6841/2026",
+   "title": "Lei nº 6.841, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1944",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1944/lei_no_6.841.pdf",
+     "sha256": "0acdba39ceda09d68a4a194a347c1916a2553d6beb1380dd0285240d85ced54d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06840",
+   "short": "Lei 6840/2026",
+   "title": "Lei nº 6.840, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1943",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1943/lei_no_6.840.pdf",
+     "sha256": "96164997b28c19761eb4ece528405fb76f5038fc04cfc020663251976508a58f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06839",
+   "short": "Lei 6839/2026",
+   "title": "Lei nº 6.839, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1941",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1941/lei_no_6.839.pdf",
+     "sha256": "d99dcd3a732217ce035c94579dcefecc457be4a57fc483416e764dd6cfd14c5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06838",
+   "short": "Lei 6838/2026",
+   "title": "Lei nº 6.838, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1940",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1940/lei_no_6.838.pdf",
+     "sha256": "8aa2733c32876a4abc41f605195fbe8be69f4dcf972419ef02aea36b8ce83106"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06837",
+   "short": "Lei 6837/2026",
+   "title": "Lei nº 6.837, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1939",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1939/lei_no_6.837.pdf",
+     "sha256": "58a11a65e4af69323b73ab7a039dc252cee1286790e6a033c08ec09f58ddb3ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06836",
+   "short": "Lei 6836/2026",
+   "title": "Lei nº 6.836, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1938",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1938/lei_no_6.836.pdf",
+     "sha256": "05f47df2cec53d36bc317c2ceafa64046e776825d21bd1415b6e941f15272f4b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06834",
+   "short": "Lei 6834/2026",
+   "title": "Lei nº 6.834, de 15 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1936",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1936/lei_no_6.834.pdf",
+     "sha256": "da7234642c3b6891017555c7620b23cbc232370d34ec6585fc6b3eb792ffa340"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06833",
+   "short": "Lei 6833/2026",
+   "title": "Lei nº 6.833, de 14 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1935",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 6,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1935/lei_no_6.833_2026_-_autoriza_o_municipio_de_vilhena_a_declarar_inexigivel_o_chamamento_publico_aciv.pdf",
+     "sha256": "5f99a74f3a25c3da598c10a388c69ab00827e61e320b97d15c9094d11883fe32"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06832",
+   "short": "Lei 6832/2026",
+   "title": "Lei nº 6.832, de 14 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1934",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1934/lei_no_6.832_2026_-_autoriza_o_poder_executivo_a_doar_com_encargos_ao_governo_do_estado_de_rondonia_o_hrv.pdf",
+     "sha256": "f231cf27ab13cd9099dcdbf22ef1c80b8765c689e1771e3f6bd02d16a2c36008"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06830",
+   "short": "Lei 6830/2026",
+   "title": "Lei nº 6.830, de 14 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1932",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 8,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1932/lei_no_6.830_2026_-_fixa_subsidios.pdf",
+     "sha256": "dab9121ec426bc51366ba91b8f09f1b04b8073b2dbd5b4ae3e371ca09fac2881"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06829",
+   "short": "Lei 6829/2026",
+   "title": "Lei nº 6.829, de 14 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1931",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1931/lei_no_6.829_2026_-_altera_a_lei_no_5.790_de_14_de_junho_de_2022_-_amt_assinada.pdf",
+     "sha256": "8f321ada6e2d0658d0e4f38475eb63ce8e86b2c03e2d67ab69f4d8f18c790d05"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06828",
+   "short": "Lei 6828/2026",
+   "title": "Lei nº 6.828, de 7 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1930",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1930/lei_no_6.828.pdf",
+     "sha256": "abddf63579aafbf8fd10a258e10955050fcf56ec500b3649b74be6c464c56b83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06827",
+   "short": "Lei 6827/2026",
+   "title": "Lei nº 6.827, de 7 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1929",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1929/lei_no_6.827.pdf",
+     "sha256": "3e6bbd2075da562e462a67c8fc00bb20f0365d8760c954869e480484f2a799ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06826",
+   "short": "Lei 6826/2026",
+   "title": "Lei nº 6.826, de 7 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1928",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1928/lei_no_6.826.pdf",
+     "sha256": "b14d2c1e0cb8476d0fc2a6219297c0c9de8ffb71a425ec5df3c7c7b54c12c9c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06825",
+   "short": "Lei 6825/2026",
+   "title": "Lei nº 6.825, de 7 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1927",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1927/lei_no_6.825.pdf",
+     "sha256": "31bafa3ed5872bee0d8171dd50abecbb8f400998cda951361e79185fb585cd1b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06824",
+   "short": "Lei 6824/2026",
+   "title": "Lei nº 6.824, de 7 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1926",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1926/lei_no_6.824.pdf",
+     "sha256": "5c2210df9e5e0e5ae4a38594c7ebb1a7237081fb4e5f4ba3d779316d8297cd83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06823",
+   "short": "Lei 6823/2026",
+   "title": "Lei nº 6.823, de 7 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1925",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1925/lei_no_6.823.pdf",
+     "sha256": "e44ce7e735933158be5d1bc4bf1d99fb41de4af165c17d3daad35282a9bfe6e5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00352",
+   "short": "LC 352/2026",
+   "title": "Lei Complementar nº 352, de 7 de julho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1970",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 11,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1970/lc_352_2026_-_dispoe_sobre_a_execucao_equitativa_a_transparencia_e_rastreabilidade_-_emendas_impositivas_parlamentares_ao.pdf",
+     "sha256": "eddf2e050a2c26aa67f764685f7a7c8ba718cd1c63a4cd2b6a448f8fe48426f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06822",
+   "short": "Lei 6822/2026",
+   "title": "Lei nº 6.822, de 30 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1924",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1924/lei_no_6.822.pdf",
+     "sha256": "f608ac7f7f46ae79dce8b1ce93546110f5e0eb73a22f73e49780a5a2c3e9f42d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06821",
+   "short": "Lei 6821/2026",
+   "title": "Lei nº 6.821, de 23 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1916",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1916/lei_no_6.821.pdf",
+     "sha256": "ab9e356e21b9b744908abb2baa33c5fd2740526983e02a4ca1f588e967319b86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06820",
+   "short": "Lei 6820/2026",
+   "title": "Lei nº 6.820, de 18 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1919",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 39,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1919/lei_no_6.820_-_2026_-_dispoe_sobre_as_oss.pdf",
+     "sha256": "73ed1d3d5ee93bf1e6f3ace95b08d5412cf8bb7f47144636db30d806834c3907"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06819",
+   "short": "Lei 6819/2026",
+   "title": "Lei nº 6.819, de 17 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1915",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 26,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1915/lei_no_6.819_-_2026_-_dispoe_sobre_o_refis.pdf",
+     "sha256": "7cceec81536623fe1987076a45efe4590aa998bf63cd6ea5a61d49b9f70863ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06818",
+   "short": "Lei 6818/2026",
+   "title": "Lei nº 6.818, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1914",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1914/lei_no_6.818.pdf",
+     "sha256": "a2036ebb41fc585ec2da94797c23d7f7482ce4313b3208d2fe4827e1ceefcad4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06817",
+   "short": "Lei 6817/2026",
+   "title": "Lei nº 6.817, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1913",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1913/lei_no_6.817.pdf",
+     "sha256": "574d3fec92ae7c938fc99721bac6aff4dca49dfa01f42e26de811a6969feccdb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06816",
+   "short": "Lei 6816/2026",
+   "title": "Lei nº 6.816, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1912",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1912/lei_no_6.816.pdf",
+     "sha256": "b99d1e0a1a449f8d522c332199058c8e6a75ec4a1620aa5e469b8fc042acdb18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06815",
+   "short": "Lei 6815/2026",
+   "title": "Lei nº 6.815, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1911",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1911/lei_no_6.815.pdf",
+     "sha256": "d3a757aa1e23e66efd59f6e39073b7950585992c45c60653e5fc881031e512ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06814",
+   "short": "Lei 6814/2026",
+   "title": "Lei nº 6.814, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1910",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1910/lei_no_6.814.pdf",
+     "sha256": "22f66c977c0b17fc1cab322a2bbc37f061f0c5abe62ca0cd6dd4687f926837b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06813",
+   "short": "Lei 6813/2026",
+   "title": "Lei nº 6.813, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1909",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1909/lei_no_6.813.pdf",
+     "sha256": "aa7e6db4e7e3b166adb131dd2f805eb85164c2827777370254bd4ee79a3dd95d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06812",
+   "short": "Lei 6812/2026",
+   "title": "Lei nº 6.812, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1908",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1908/lei_no_6.812.pdf",
+     "sha256": "9acfc04c6739fb05b00e71104f725bf3314f335a059eed6019c6fdb9e28ef12b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06811",
+   "short": "Lei 6811/2026",
+   "title": "Lei nº 6.811, de 16 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1907",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1907/lei_no_6.811.pdf",
+     "sha256": "d1e0f9c840cfde2e87dff4b1c0c57b7bf304335ca194ddae940d37ee9c403e6a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06810",
+   "short": "Lei 6810/2026",
+   "title": "Lei nº 6.810, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1906",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1906/lei_no_6.810_2026_-_denomina_rua_ademir_libero_ceruti_a_atual_rua_u_e_a_rua_57_nos_setores_40_-_bnh_e_04.pdf",
+     "sha256": "aceefa812e8f1608f5453502d0a9d5ac814746981184b29f2144c8f8f704226c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06809",
+   "short": "Lei 6809/2026",
+   "title": "Lei nº 6.809, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1899",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 8,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1899/lei_no_6.809_2026_-_dispoe_sobre_a_divulgacao_da_demanda_atendida_e_da_lista_de_espera_por_vagas_nas_escolas_da_rede_publica_municipal.pdf",
+     "sha256": "96b714d5ea4f03d8911ddebfd8a6e72f1c90b3db77f97cc8bd705f5380a30b18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06808",
+   "short": "Lei 6808/2026",
+   "title": "Lei nº 6.808, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1898",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 8,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1898/lei_no_6.808_2026_-_autoriza_a_realizacao_de_pinturas_e_decoracoes_tematicas_em_vias_publicas_durante_a_copa_do_mundo_fifa_e_da_outras_providencias.pdf",
+     "sha256": "e0cb682fd41a719b631739a2912d55d76fcf231e4d1977e84cf3dba0997ef7d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06807",
+   "short": "Lei 6807/2026",
+   "title": "Lei nº 6.807, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1897",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1897/lei_no_6.807.pdf",
+     "sha256": "21c9b120f9477210054e48d32cdd2440f09ac7a90f0af78caa98869fbf04d11e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06806",
+   "short": "Lei 6806/2026",
+   "title": "Lei nº 6.806, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1896",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1896/lei_no_6.806.pdf",
+     "sha256": "2adafe0808c55e170a9e264514812836c6c14bf80ee44a00c61e416b56926bf8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06805",
+   "short": "Lei 6805/2026",
+   "title": "Lei nº 6.805, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1895",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1895/lei_no_6.805.pdf",
+     "sha256": "adee3825804dec9b8f7448275de67992620857cfbadc4234ffd6de4cd68747a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06804",
+   "short": "Lei 6804/2026",
+   "title": "Lei nº 6.804, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1894",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1894/lei_no_6.804.pdf",
+     "sha256": "638fd80595f18c91f91884c5553767c6a463f72e0540c2171bb6e6c8d8d9730c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06803",
+   "short": "Lei 6803/2026",
+   "title": "Lei nº 6.803, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1893",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1893/lei_no_6.803.pdf",
+     "sha256": "efd791ce274d182f1a51e7897331e3bcc0b7da14b0e1eaccb336a9d98d98d68b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06802",
+   "short": "Lei 6802/2026",
+   "title": "Lei nº 6.802, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1892",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1892/lei_no_6.802.pdf",
+     "sha256": "dfa1d9a9d380e3c7d822ae0572254fca9ed614a6e3d026297ed0b5758f0c195c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06801",
+   "short": "Lei 6801/2026",
+   "title": "Lei nº 6.801, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1891",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1891/lei_no_6.801.pdf",
+     "sha256": "036d3c8d56c5e76ffe4324ab713873c771c06ea51e2034ea2ae0698c93e8606c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06800",
+   "short": "Lei 6800/2026",
+   "title": "Lei nº 6.800, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1890",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1890/lei_no_6.800.pdf",
+     "sha256": "3f1e60b4be68e1107124be04a9d60ab64e6de8b69c37af02ca449ee92fe12d82"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06799",
+   "short": "Lei 6799/2026",
+   "title": "Lei nº 6.799, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1889",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1889/lei_no_6.799.pdf",
+     "sha256": "22d75c273a5a98911e09a6cce918b5eaeacc36af64eadf66aee8eef5a66c6791"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06798",
+   "short": "Lei 6798/2026",
+   "title": "Lei nº 6.798, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1888",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1888/lei_no_6.798.pdf",
+     "sha256": "bdc4f467e268c98007a1286c75cbefefc05dea4f25256998cf08080677d52b48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06797",
+   "short": "Lei 6797/2026",
+   "title": "Lei nº 6.797, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1887",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 6,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1887/lei_no_6.797.pdf",
+     "sha256": "70d5327a8ad1f062cf5328fc9ac29c2c811a7594e985f43f2c228c9e171a8d17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06796",
+   "short": "Lei 6796/2026",
+   "title": "Lei nº 6.796, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1886",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1886/lei_no_6.796.pdf",
+     "sha256": "9196f1ae0d409d56f5576eea26342a86564f23fd194de04d4919f58938a88ffc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06795",
+   "short": "Lei 6795/2026",
+   "title": "Lei nº 6.795, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1885",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1885/lei_no_6.795.pdf",
+     "sha256": "0d5a3fa1cc6d557ce059af0a3bf6734ad8a39ac51e84f0e0d3384d7a5af9066e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06794",
+   "short": "Lei 6794/2026",
+   "title": "Lei nº 6.794, de 9 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1884",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1884/lei_no_6.794.pdf",
+     "sha256": "417258d7e08a124f62e63f008ca8ca12edaa15217333437081de771a59836592"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06790",
+   "short": "Lei 6790/2026",
+   "title": "Lei nº 6.790, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1902",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1902/lei_no_6.790_-_2026_-_autoriza_conveni_com_a_jbs.pdf",
+     "sha256": "7e114276d345216f0d4789617716b62abfb492f43bd723f6142ff596c99f85b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06787",
+   "short": "Lei 6787/2026",
+   "title": "Lei nº 6.787, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1900",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1900/lei_no_6.787_-_2026_-_altera_a_lei_5.967_de_29_de_dezembro_de_2022.pdf",
+     "sha256": "b235e1215a0e1b3bafce0d3b97ba30e1e47cf41e33fffdbc86c0b08d9524f5e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06783",
+   "short": "Lei 6783/2026",
+   "title": "Lei nº 6.783, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1883",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1883/lei_no_6.783_-_2026.pdf",
+     "sha256": "7552b9fdcf5e6e12cf2f6995345233d9ad02066098a2f8e32539e10b2162cf4b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06782",
+   "short": "Lei 6782/2026",
+   "title": "Lei nº 6.782, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1882",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1882/lei_no_6.782_-_2026.pdf",
+     "sha256": "67bbfc6da92b7cc2dfe9dc7076257d3d3eb322d8a5103a7040a692ed044b70cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06781",
+   "short": "Lei 6781/2026",
+   "title": "Lei nº 6.781, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1881",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1881/lei_no_6.781_-_2026.pdf",
+     "sha256": "9cac3c18dd1a22dd6a0a4241bbe1c8129d34d894bf22a4841bed98f2e457d557"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06780",
+   "short": "Lei 6780/2026",
+   "title": "Lei nº 6.780, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1880",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1880/lei_no_6.780_-_2026.pdf",
+     "sha256": "8fb34ece1e7a71c9056edcd07b2e53a3760466c69aed1b5960c287b91832af35"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06779",
+   "short": "Lei 6779/2026",
+   "title": "Lei nº 6.779, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1879",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 7,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1879/lei_no_6.779_2026.pdf",
+     "sha256": "e1109c4bcb7ca80cb3632600b2c144dc4d3223d456a35fa7d1fb26a10fb94a4b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06778",
+   "short": "Lei 6778/2026",
+   "title": "Lei nº 6.778, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1878",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1878/lei_no_6.778_-_2026.pdf",
+     "sha256": "560d0586d5bfdfafe1cc3d754b878ee117ade003eb3841e6dad5a4430e2c04c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06777",
+   "short": "Lei 6777/2026",
+   "title": "Lei nº 6.777, de 2 de junho de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1877",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1877/lei_no_6.777_2026.pdf",
+     "sha256": "ec389c00e16e3d4e80b6658b8c759517af6bcd5b452009ea9875352deba45271"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06776",
+   "short": "Lei 6776/2026",
+   "title": "Lei nº 6.776, de 21 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1875",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 10,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1875/lei_no_6.776_2026_-_estabele_diretrizes_gerais_para_a_instalacao_de_ramais_de_ligacao_de_agua_nas_vias_publicas.pdf",
+     "sha256": "6a4ba822362200b1423a1d21951b1d4574774b9009a8f568f1ccc701d58cd65f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06773",
+   "short": "Lei 6773/2026",
+   "title": "Lei nº 6.773, de 21 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1872",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1872/lei_no_6.773_2026_-_altera_a_lei_no_6.505_de_8_de_maio_de_2025_que_institui_a_semana_municipal_da_mae_atipica.pdf",
+     "sha256": "1dc93e96be0449a049d276a2e1df6095bee37cd8762398a1ae58c6450d5c9ec4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06772",
+   "short": "Lei 6772/2026",
+   "title": "Lei nº 6.772, de 21 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1871",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1871/lei_no_6.772_2026_-_denomina_vereador_nego_moraes_unidade_de_pronto_atendimento_upa_24h_do_municipio_de_vilhena.pdf",
+     "sha256": "8392b00a802d001da6869548bdaf687942eeaf043393164b6d1683f6e9979e94"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00351",
+   "short": "LC 351/2026",
+   "title": "Lei Complementar nº 351, de 21 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1876",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1876/lc_351_2026_altera_a_lei_complementar_no_324_de_7_de_fevereiro_de_2024_que_institui_a_reforma_do_rpps.pdf",
+     "sha256": "3b39f9707677b08834d5841b8ad39f969022ead31672ce8944e87b1b34aa6a2c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06771",
+   "short": "Lei 6771/2026",
+   "title": "Lei nº 6.771, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1870",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1870/lei_no_6.771.pdf",
+     "sha256": "5f53ae8e5338122c993cb7f25c5cc8455c771cdb71019276702a148276cedfa1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06770",
+   "short": "Lei 6770/2026",
+   "title": "Lei nº 6.770, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1869",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1869/lei_no_6.770.pdf",
+     "sha256": "618277d897262f8d26a9d5e9879c9e3275ac64f4bb24c558e2e7489ca6ae7abf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06769",
+   "short": "Lei 6769/2026",
+   "title": "Lei nº 6.769, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1868",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1868/lei_no_6.769.pdf",
+     "sha256": "f396762b8a4c80037451bdd6c42a6674f6703088c23983028688fe01867cab06"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06767",
+   "short": "Lei 6767/2026",
+   "title": "Lei nº 6.767, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1865",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1865/lei_no_6.767.pdf",
+     "sha256": "c6c0b3cdf9ac0e275284dc96a4f0975c9e2bcdf1eb9a5af06650294ca34d3b04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06766",
+   "short": "Lei 6766/2026",
+   "title": "Lei nº 6.766, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1864",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1864/lei_no_6.766.pdf",
+     "sha256": "62659ae68cab2fab2f4dd3740e4c20475d7fada7dfa513b73145dc7b9606acc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06765",
+   "short": "Lei 6765/2026",
+   "title": "Lei nº 6.765, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1863",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1863/lei_no_6.765.pdf",
+     "sha256": "d1d681bfe82c36381f5c805053d8ce9101b9edd86a0a30133fdc8123907a4890"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06764",
+   "short": "Lei 6764/2026",
+   "title": "Lei nº 6.764, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1862",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1862/lei_no_6.764.pdf",
+     "sha256": "cd0a7c1c60122f518d8e61099efee48bfc98577a461748123887b6e87c514bed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06760",
+   "short": "Lei 6760/2026",
+   "title": "Lei nº 6.760, de 20 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1858",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1858/lei_no_6.760.pdf",
+     "sha256": "b07c54e5934893f649c260799ef0f0059df7f8ffb4b1a30df77844baf33363a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06758",
+   "short": "Lei 6758/2026",
+   "title": "Lei nº 6.758, de 12 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1857",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1857/lei_no_6.758_-_2026_-_prorroga_a_concessao_do_terminal_rodoviario.pdf",
+     "sha256": "61e85c7cfd862a6c8890a7602be2a98329092d4ee4d471ba66bdc2a69e31dbc1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06757",
+   "short": "Lei 6757/2026",
+   "title": "Lei nº 6.757, de 12 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1856",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1856/lei_no_6.757.pdf",
+     "sha256": "c4da04ea708d460b6d9ef133e773b056ac1d83a1950371da5ae91cec9e6bdca4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06756",
+   "short": "Lei 6756/2026",
+   "title": "Lei nº 6.756, de 12 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1855",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1855/lei_no_6.756.pdf",
+     "sha256": "425b90a24ef4f5cc8f0abb618ad2a9852255cb7304024397caea00c331671dbe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06755",
+   "short": "Lei 6755/2026",
+   "title": "Lei nº 6.755, de 12 de maio de 2026",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1854",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2026/1854/lei_no_6.755.pdf",
+     "sha256": "a6c2fd959a1296cea70fbe9c5628c715e81bed504b7ea35af708177b943156ac"
+    }
+   ]
+  }
+ ]
+}

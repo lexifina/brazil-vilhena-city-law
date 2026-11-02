@@ -1,0 +1,9 @@
+{
+  "path": "br-ro-vilhena",
+  "code": "BR-RO-VILHENA",
+  "name": "Vilhena (city)",
+  "level": "municipality",
+  "parent": "br-ro",
+  "repo": "https://github.com/lexifina/brazil-vilhena-city-law",
+  "build": "built: the law of Vilhena from the Câmara Municipal's SAPL"
+}
