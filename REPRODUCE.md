@@ -1,6 +1,6 @@
 # How this repository was made (Vilhena)
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -10,6 +10,10 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -194,20 +198,154 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-06757` | Lei nº 6.757, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
 | `lei-2026-06756` | Lei nº 6.756, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
 | `lei-2026-06755` | Lei nº 6.755, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06754` | Lei nº 6.754, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06753` | Lei nº 6.753, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06752` | Lei nº 6.752, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06751` | Lei nº 6.751, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06750` | Lei nº 6.750, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06749` | Lei nº 6.749, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06748` | Lei nº 6.748, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-06741` | Lei nº 6.741, de 5 de maio de 2026 | 1 | 2026-05-05 to 2026-05-05 |
+| `lei-2026-06740` | Lei nº 6.740, de 23 de abril de 2026 | 1 | 2026-04-23 to 2026-04-23 |
+| `lei-2026-06739` | Lei nº 6.739, de 23 de abril de 2026 | 1 | 2026-04-23 to 2026-04-23 |
+| `lei-2026-06738` | Lei nº 6.738, de 23 de abril de 2026 | 1 | 2026-04-23 to 2026-04-23 |
+| `lei-2026-06737` | Lei nº 6.737, de 23 de abril de 2026 | 1 | 2026-04-23 to 2026-04-23 |
+| `lei-2026-06736` | Lei nº 6.736, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06735` | Lei nº 6.735, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06734` | Lei nº 6.734, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06733` | Lei nº 6.733, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06732` | Lei nº 6.732, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06730` | Lei nº 6.730, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06729` | Lei nº 6.729, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06728` | Lei nº 6.728, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06727` | Lei nº 6.727, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06726` | Lei nº 6.726, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06725` | Lei nº 6.725, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06724` | Lei nº 6.724, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06723` | Lei nº 6.723, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06722` | Lei nº 6.722, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06721` | Lei nº 6.721, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06720` | Lei nº 6.720, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06719` | Lei nº 6.719, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `lei-2026-06718` | Lei nº 6.718, de 8 de abril de 2026 | 1 | 2026-04-08 to 2026-04-08 |
+| `lei-2026-06717` | Lei nº 6.717, de 8 de abril de 2026 | 1 | 2026-04-08 to 2026-04-08 |
+| `lei-2026-06714` | Lei nº 6.714, de 7 de abril de 2026 | 1 | 2026-04-08 to 2026-04-08 |
+| `lei-2026-06713` | Lei nº 6.713, de 30 de março de 2026 | 1 | 2026-03-30 to 2026-03-30 |
+| `lei-2026-06709` | Lei nº 6.709, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06708` | Lei nº 6.708, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06707` | Lei nº 6.707, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06706` | Lei nº 6.706, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06705` | Lei nº 6.705, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06704` | Lei nº 6.704, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06703` | Lei nº 6.703, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06702` | Lei nº 6.702, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06701` | Lei nº 6.701, de 17 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `lei-2026-06697` | Lei nº 6.697, de 10 de março de 2026 | 1 | 2026-03-10 to 2026-03-10 |
+| `lei-2026-06696` | Lei nº 6.696, de 10 de março de 2026 | 1 | 2026-03-10 to 2026-03-10 |
+| `lei-2026-06695` | Lei nº 6.695, de 10 de março de 2026 | 1 | 2026-03-10 to 2026-03-10 |
+| `lei-2026-06694` | Lei nº 6.694, de 10 de março de 2026 | 1 | 2026-03-10 to 2026-03-10 |
+| `lei-2026-06693` | Lei nº 6.693, de 10 de março de 2026 | 1 | 2026-03-10 to 2026-03-10 |
+| `lei-2026-06692` | Lei nº 6.692, de 10 de março de 2026 | 1 | 2026-03-10 to 2026-03-10 |
+| `lei-2026-06691` | Lei nº 6.691, de 10 de março de 2026 | 1 | 2026-03-10 to 2026-03-10 |
+| `lei-2026-06688` | Lei nº 6.688, de 4 de março de 2026 | 1 | 2026-03-04 to 2026-03-04 |
+| `lei-2026-06687` | Lei nº 6.687, de 4 de março de 2026 | 1 | 2026-03-04 to 2026-03-04 |
+| `lei-2026-06685` | Lei nº 6.685, de 24 de fevereiro de 2026 | 1 | 2026-02-24 to 2026-02-24 |
+| `lei-2026-06684` | Lei nº 6.684, de 24 de fevereiro de 2026 | 1 | 2026-02-24 to 2026-02-24 |
+| `lei-2026-06683` | Lei nº 6.683, de 24 de fevereiro de 2026 | 1 | 2026-02-24 to 2026-02-24 |
+| `lei-2026-06682` | Lei nº 6.682, de 24 de fevereiro de 2026 | 1 | 2026-02-24 to 2026-02-24 |
+| `lei-2026-06681` | Lei nº 6.681, de 24 de fevereiro de 2026 | 1 | 2026-02-24 to 2026-02-24 |
+| `lei-2026-06680` | Lei nº 6.680, de 24 de fevereiro de 2026 | 1 | 2026-02-24 to 2026-02-24 |
+| `lei-2026-06679` | Lei nº 6.679, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06678` | Lei nº 6.678, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06676` | Lei nº 6.676, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06675` | Lei nº 6.675, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06674` | Lei nº 6.674, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06673` | Lei nº 6.673, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06671` | Lei nº 6.671, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06670` | Lei nº 6.670, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06669` | Lei nº 6.669, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06668` | Lei nº 6.668, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06667` | Lei nº 6.667, de 23 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06666` | Lei nº 6.666, de 20 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-06664` | Lei nº 6.664, de 11 de fevereiro de 2026 | 1 | 2026-02-11 to 2026-02-11 |
+| `lei-2026-06663` | Lei nº 6.663, de 11 de fevereiro de 2026 | 1 | 2026-02-11 to 2026-02-11 |
+| `lc-2026-00348` | Lei Complementar nº 348, de 10 de fevereiro de 2026 | 1 | 2026-02-11 to 2026-02-11 |
+| `lei-2026-06659` | Lei nº 6.659, de 4 de fevereiro de 2026 | 1 | 2026-03-30 to 2026-03-30 |
+| `lei-2026-06658` | Lei nº 6.658, de 4 de fevereiro de 2026 | 1 | 2026-02-04 to 2026-02-04 |
+| `lei-2026-06657` | Lei nº 6.657, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
+| `lei-2026-06654` | Lei nº 6.654, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
+| `lei-2026-06652` | Lei nº 6.652, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
+| `lei-2026-06651` | Lei nº 6.651, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
+| `lei-2026-06650` | Lei nº 6.650, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
+| `lei-2026-06649` | Lei nº 6.649, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
+| `lei-2025-06642` | Lei nº 6.642, de 29 de dezembro de 2025 | 1 | 2025-12-29 to 2025-12-29 |
+| `lei-2025-06637` | Lei nº 6.637, de 16 de dezembro de 2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `lei-2025-06635` | Lei nº 6.635, de 16 de dezembro de 2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `lei-2025-06634` | Lei nº 6.634, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06632` | Lei nº 6.632, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06631` | Lei nº 6.631, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06630` | Lei nº 6.630, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06629` | Lei nº 6.629, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06628` | Lei nº 6.628, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06627` | Lei nº 6.627, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06626` | Lei nº 6.626, de 9 de dezembro de 2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `lei-2025-06624` | Lei nº 6.624, de 3 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-06623` | Lei nº 6.623, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06622` | Lei nº 6.622, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06621` | Lei nº 6.621, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06620` | Lei nº 6.620, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06619` | Lei nº 6.619, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06616` | Lei nº 6.616, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06614` | Lei nº 6.614, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06611` | Lei nº 6.611, de 2 de dezembro de 2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `lei-2025-06610` | Lei nº 6.610, de 19 de novembro de 2025 | 1 | 2025-11-24 to 2025-11-24 |
+| `lei-2025-06609` | Lei nº 6.609, de 19 de novembro de 2025 | 1 | 2025-11-24 to 2025-11-24 |
+| `lei-2025-06607` | Lei nº 6.607, de 19 de novembro de 2025 | 1 | 2025-11-24 to 2025-11-24 |
+| `lei-2025-06606` | Lei nº 6.606, de 18 de novembro de 2025 | 1 | 2025-11-18 to 2025-11-18 |
+| `lei-2025-06605` | Lei nº 6.605, de 18 de novembro de 2025 | 1 | 2025-11-18 to 2025-11-18 |
+| `lei-2025-06602` | Lei nº 6.602, de 12 de novembro de 2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `lei-2025-06599` | Lei nº 6.599, de 5 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-06598` | Lei nº 6.598, de 5 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-06596` | Lei nº 6.596, de 5 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-06595` | Lei nº 6.595, de 5 de novembro de 2025 | 1 | 2025-11-05 to 2025-11-05 |
+| `lei-2025-06594` | Lei nº 6.594, de 30 de outubro de 2025 | 1 | 2025-10-30 to 2025-10-30 |
+| `lei-2025-06593` | Lei nº 6.593, de 30 de outubro de 2025 | 1 | 2025-10-30 to 2025-10-30 |
+| `lei-2025-06592` | Lei nº 6.592, de 21 de outubro de 2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `lei-2025-06591` | Lei nº 6.591, de 21 de outubro de 2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `lei-2025-06585` | Lei nº 6.585, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06583` | Lei nº 6.583, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06582` | Lei nº 6.582, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06581` | Lei nº 6.581, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06580` | Lei nº 6.580, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06579` | Lei nº 6.579, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06578` | Lei nº 6.578, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06577` | Lei nº 6.577, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06576` | Lei nº 6.576, de 15 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-06575` | Lei nº 6.575, de 7 de outubro de 2025 | 1 | 2025-10-07 to 2025-10-07 |
+| `lei-2025-06574` | Lei nº 6.574, de 7 de outubro de 2025 | 1 | 2025-10-07 to 2025-10-07 |
+| `lei-2025-06573` | Lei nº 6.573, de 7 de outubro de 2025 | 1 | 2025-10-07 to 2025-10-07 |
+| `lei-2025-06572` | Lei nº 6.572, de 7 de outubro de 2025 | 1 | 2025-10-07 to 2025-10-07 |
+| `lc-2025-00344` | Lei Complementar nº 344, de 7 de outubro de 2025 | 1 | 2025-10-10 to 2025-10-10 |
+| `lei-2025-06571` | Lei nº 6.571, de 17 de setembro de 2025 | 1 | 2025-09-22 to 2025-09-22 |
+| `lei-2025-06570` | Lei nº 6.570, de 16 de setembro de 2025 | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-06569` | Lei nº 6.569, de 16 de setembro de 2025 | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-06568` | Lei nº 6.568, de 15 de setembro de 2025 | 1 | 2025-09-15 to 2025-09-15 |
+| `lei-2025-06565` | Lei nº 6.565, de 10 de setembro de 2025 | 1 | 2025-09-10 to 2025-09-10 |
+| `lei-2025-06564` | Lei nº 6.564, de 3 de setembro de 2025 | 1 | 2025-09-03 to 2025-09-03 |
 
-The build made 177 commits:
+The build made 311 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 177 | first version of an act |
+| 311 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 177 laws in the record.
-- 354 tags.
+- 311 laws in the record.
+- 622 tags.
 
 ## Dates
 
@@ -219,18 +357,30 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4df49fe93dca22235d3a7add12b97fa20bd8e5ae6b8f7580f7350461112986af` (857173 bytes).
+- Corpus: sha256 `b44e5bf06a0208522d80207e836d9d73e37749f00354a588b7520e56d694a368` (1402619 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-177 versions of 177 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
@@ -253,6 +403,10 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
