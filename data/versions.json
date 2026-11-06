@@ -5236,6 +5236,468 @@
      "sha256": "a833b34b5fe172ac4804828d63643a1d306ff0698d15c891ab4cb9ddf4f653b1"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-06466",
+   "short": "Lei 6466/2025",
+   "title": "Lei nº 6.466, de 12 de março de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1538",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1538/lei_6.466.pdf",
+     "sha256": "0f03ad75ecfeabdcfb3318ea340303534d673f8c7efbebc6896c90d52398f8ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06465",
+   "short": "Lei 6465/2025",
+   "title": "Lei nº 6.465, de 12 de março de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1537",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1537/lei_6.465.pdf",
+     "sha256": "0d4789537e974ca4147296283dbaea65ddaa69ef60e043e70a7f80326d392006"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06464",
+   "short": "Lei 6464/2025",
+   "title": "Lei nº 6.464, de 12 de março de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1536",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1536/lei_6.464.pdf",
+     "sha256": "fd36aa76e17618dd24d31778c28b7f98f951e81362a59e8c7be62dc7bf65a335"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06463",
+   "short": "Lei 6463/2025",
+   "title": "Lei nº 6.463, de 12 de março de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1535",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1535/lei_6.463.pdf",
+     "sha256": "8238d45a70dd62a6ab1ab17f8a48ab10d7f7e77d65099017f7ad20af78156866"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06461",
+   "short": "Lei 6461/2025",
+   "title": "Lei nº 6.461, de 12 de março de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1533",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1533/lei_6.461.pdf",
+     "sha256": "216de6cdd5ad8150e7adcf9443f7c998508e9c6a60af966c65df1da0e4109bb7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06460",
+   "short": "Lei 6460/2025",
+   "title": "Lei nº 6.460, de 12 de março de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1532",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1532/lei_6.460.pdf",
+     "sha256": "7907f7a0bbc9b1ba7e463504fb9e51b6ba0ecb4789d66433a24f5cd6c602bb33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06459",
+   "short": "Lei 6459/2025",
+   "title": "Lei nº 6.459, de 12 de março de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1531",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1531/lei_6.459.pdf",
+     "sha256": "f611f43f6e27898c4ee27ffe638485ac600cca5acba6d09e7005f5e7f15a8b79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06458",
+   "short": "Lei 6458/2025",
+   "title": "Lei nº 6.458, de 19 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1524",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1524/lei_6.458.pdf",
+     "sha256": "205ce984b110d602530571a410c625509962c6ef886c330d66f22683394ce29c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06457",
+   "short": "Lei 6457/2025",
+   "title": "Lei nº 6.457, de 19 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1523",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1523/lei_6.457.pdf",
+     "sha256": "13c3cc21bcfaf789eded3f4031a0b9c396313d5651816ec9d1ef4bcb2f4dc54e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06456",
+   "short": "Lei 6456/2025",
+   "title": "Lei nº 6.456, de 19 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1522",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1522/lei_6.456.pdf",
+     "sha256": "da48740773c33a9d44c1546229f4bbcea0722b4adf1fe56a2c64624e93158dc2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06455",
+   "short": "Lei 6455/2025",
+   "title": "Lei nº 6.455, de 19 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1521",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1521/lei_6.455.pdf",
+     "sha256": "11c5f3b4fad5587b7eed2a9d54e5c85626df3b58415c599d80f5a6cc21c93285"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06452",
+   "short": "Lei 6452/2025",
+   "title": "Lei nº 6.452, de 18 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1519",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1519/lei_6.452_-_2025_altera_a_lei_no_6.435_de_3_janeiro_de_2025_que_estima_a_receita_e_fixa_a_despesa_do_municipio_para_o_exercicio_financeiro_de_2025.pdf",
+     "sha256": "410b342de062f1bf5849c7af44a9524725e1af0e1b6ba096faad25d887aaba41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06451",
+   "short": "Lei 6451/2025",
+   "title": "Lei nº 6.451, de 12 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1517",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1517/lei_6.451.pdf",
+     "sha256": "10a71b6b63a3917ed689ff0bf7579dd72be700f3e9a4a5d7f3483996e98ed331"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06450",
+   "short": "Lei 6450/2025",
+   "title": "Lei nº 6.450, de 12 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1516",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1516/lei_6.450.pdf",
+     "sha256": "a844151891d988e28e475aa9ca84ffe5e262f2f9002b0fa59ce22bd9e5bbfc13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06449",
+   "short": "Lei 6449/2025",
+   "title": "Lei nº 6.449, de 12 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1515",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1515/lei_6.449.pdf",
+     "sha256": "eeaeece20e06b96a628e1903efa43b2d5253a573451e354489878b5cafb52755"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06448",
+   "short": "Lei 6448/2025",
+   "title": "Lei nº 6.448, de 12 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1514",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1514/lei_6.448.pdf",
+     "sha256": "cedc248e78df3a8d69a6d0039e32b75989718830851d55510d4936300596b271"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06447",
+   "short": "Lei 6447/2025",
+   "title": "Lei nº 6.447, de 12 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1513",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1513/lei_6.447.pdf",
+     "sha256": "a64ac3ce4bd3e026300fc43c8efcb63882054212bcf45fba27592453cd751295"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06446",
+   "short": "Lei 6446/2025",
+   "title": "Lei nº 6.446, de 12 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1512",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1512/lei_6.446.pdf",
+     "sha256": "967e15443025c2ada2ffd72e6c7d9369cab6ebfb9bd0ed0dd2b7a4f9809101d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06445",
+   "short": "Lei 6445/2025",
+   "title": "Lei nº 6.445, de 12 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1511",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1511/lei_6.445.pdf",
+     "sha256": "51a4efc076c5747154b636f6b4470ae61dd72638312b06ab36da58911aef2c73"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06440",
+   "short": "Lei 6440/2025",
+   "title": "Lei nº 6.440, de 11 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1506",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1506/lei_6.440_2025_-_altera_a_lei_no_5.792_de_14_de_julho_de_2022._que_institui_o_plano_de_carreira_cargos_e_remunarecao_dos_servidores.pdf",
+     "sha256": "dd1cabc79bf8bb723f6db005b5ef2348c5fbbb003e851ff1929fc7a0b71c3ab8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06438",
+   "short": "Lei 6438/2025",
+   "title": "Lei nº 6.438, de 11 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1504",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 17,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1504/lei_6.438_2025_dispoe_sobre_as_normas_de_protecao_ao_meio_ambiente_artificial_e_da_ordem_urbanistica_e_da_outras_providencias.pdf",
+     "sha256": "9bcdb70d9ad2281c14c6a77de556b7440bbc840ab859a4595f6cc09c8c02dc6d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06444",
+   "short": "Lei 6444/2025",
+   "title": "Lei nº 6.444, de 6 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1510",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1510/lei_6.444.pdf",
+     "sha256": "82c8b8bdfbc52998e94728c66caad5d8e5857385f99d39fa6af8c1ceea98fb89"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06443",
+   "short": "Lei 6443/2025",
+   "title": "Lei nº 6.443, de 6 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1509",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1509/lei_6.443.pdf",
+     "sha256": "df37db2447fa2e0c3b1f14969df32ca4c9308722bfdcfed854f1b65a7618b75c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06442",
+   "short": "Lei 6442/2025",
+   "title": "Lei nº 6.442, de 6 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1508",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1508/lei_6.442.pdf",
+     "sha256": "1f5197b0399d73bfc7e864471228ebeee78913325b4d76d6d1374cd82958e66f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-06441",
+   "short": "Lei 6441/2025",
+   "title": "Lei nº 6.441, de 6 de fevereiro de 2025",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1507",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2025/1507/lei_6.441.pdf",
+     "sha256": "cc6d1880cdce0d62fb38fe3742924f19dfed122121e9c1167b11db8b62b86a39"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06432",
+   "short": "Lei 6432/2024",
+   "title": "Lei nº 6.432, de 18 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1498",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1498/lei_6.432.pdf",
+     "sha256": "e2687c8eb237a781d2dd825d55d0e9d3ee2f3e809086d4d6d33df06e4febe526"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06431",
+   "short": "Lei 6431/2024",
+   "title": "Lei nº 6.431, de 18 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1497",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1497/lei_6.431.pdf",
+     "sha256": "8a0dd144dc63890e49b083b552620b302025ada1de8ab6f211f46445374f1e88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06430",
+   "short": "Lei 6430/2024",
+   "title": "Lei nº 6.430, de 18 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1496",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1496/lei_6.430.pdf",
+     "sha256": "782b28e3f3a1e262a6e9ce450dfd1e976bb76ea8fe049dc05077e6bbafda9610"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06429",
+   "short": "Lei 6429/2024",
+   "title": "Lei nº 6.429, de 18 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1495",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1495/lei_6.429_2024.pdf",
+     "sha256": "a1ade84070a4cb0a0f0543515eb3da25512800edfaed21da9dabb8e6f6e48110"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06428",
+   "short": "Lei 6428/2024",
+   "title": "Lei nº 6.428, de 11 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1494",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1494/lei_6.428_2024_-_altera_a_lei_n_6.191_de_15_de_dezembro_de_2023_que_dispoe_sobre_as_diretrizes_orcamentarias_para_o_exercicio_de_2024.pdf",
+     "sha256": "be9d43b9005aee657cec1bd96078e07da9b8607a936de9ff09bb01fa991268c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06427",
+   "short": "Lei 6427/2024",
+   "title": "Lei nº 6.427, de 11 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1488",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1488/lei_6.427.pdf",
+     "sha256": "dade7f6e148d9ddcacb60fc915dadda87bdc2193aa549268c2f871fee625bc71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06426",
+   "short": "Lei 6426/2024",
+   "title": "Lei nº 6.426, de 11 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1489",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1489/lei_6.426.pdf",
+     "sha256": "86a5d24269832f42eee2e9761379a6386a76a9566e85df7ecd6448d349fce09c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06422",
+   "short": "Lei 6422/2024",
+   "title": "Lei nº 6.422, de 10 de dezembro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1487",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1487/lei_6.422.pdf",
+     "sha256": "96f58b5759a8eada2c6d296f35db1edf25182eed7306ac4f395071883c6f2608"
+    }
+   ]
   }
  ]
 }
