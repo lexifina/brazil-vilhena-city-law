@@ -9394,6 +9394,510 @@
      "sha256": "dd7fd9d55ba69214969f8e293b45539e70f3cadc92562567b8475ef3e1538f2e"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-06085",
+   "short": "Lei 6085/2023",
+   "title": "Lei nº 6.085, de 2 de agosto de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1093",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1093/lei_6.085.pdf",
+     "sha256": "1aa522ad852c2b92030f43b1846c9bca633603bdaeb9602c9fd6f151ea4bf5bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06084",
+   "short": "Lei 6084/2023",
+   "title": "Lei nº 6.084, de 2 de agosto de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1092",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1092/lei_6.084.pdf",
+     "sha256": "3d07db2324e34a75097ce42d53ba06a32f6837ca92e94e9776f88ab48a6c6224"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06083",
+   "short": "Lei 6083/2023",
+   "title": "Lei nº 6.083, de 2 de agosto de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1091",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1091/lei_6.083.pdf",
+     "sha256": "822d544ad7c64b3b9a55e64dae50408bfdb2a0266b29546fd032bc8458bcca79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06082",
+   "short": "Lei 6082/2023",
+   "title": "Lei nº 6.082, de 2 de agosto de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1090",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1090/lei_6.082.pdf",
+     "sha256": "96d828be108213d7b9f35374cd851e2f764997905fc7184fd5849ae67afe0662"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06081",
+   "short": "Lei 6081/2023",
+   "title": "Lei nº 6.081, de 2 de agosto de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1089",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1089/lei_6.081.pdf",
+     "sha256": "2460deadaacbf58e64e4f2c02e14ad69976a2d2abbb44ed341a0843702f49d54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06077",
+   "short": "Lei 6077/2023",
+   "title": "Lei nº 6.077, de 12 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1081",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1081/lei_6.077_2023-altera_a_lei_no_5.025_de_20_de_dezembro_de__2018que_reestrutura_o__rpps_e_o_ipmv_de_vilhena.pdf",
+     "sha256": "d0977b1ae5a0f27c52d0b390fee84eb2da592d63ff75fe22699f195a4b5b536b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06076",
+   "short": "Lei 6076/2023",
+   "title": "Lei nº 6.076, de 12 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1080",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1080/lei_6.076.pdf",
+     "sha256": "77b38e3417451cc2b2dbe7c3df74a16aeabc29830a9358148e3cbe2c4b0c7635"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06073",
+   "short": "Lei 6073/2023",
+   "title": "Lei nº 6.073, de 6 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1075",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1075/lei_6.073.pdf",
+     "sha256": "fbfb7dd1ce727f2623b561c5523747f3fbdbf959e87d412c49d3decc0fab9eb7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06072",
+   "short": "Lei 6072/2023",
+   "title": "Lei nº 6.072, de 6 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1074",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1074/lei_6.072.pdf",
+     "sha256": "f3618ad711e27a6f742e4db69d04ef269883d59b68f4d54beb1fd811dde8c876"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06071",
+   "short": "Lei 6071/2023",
+   "title": "Lei nº 6.071, de 6 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1073",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1073/lei_6.071.pdf",
+     "sha256": "3dba07fa5303b5cffca69db80b0c7d44a9d3c9bf496060480aee1098a5b62a58"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06070",
+   "short": "Lei 6070/2023",
+   "title": "Lei nº 6.070, de 6 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1072",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1072/lei_6.070.pdf",
+     "sha256": "bef5cfa55ad902b5ae7d5f4d16560bd40625de02c91f1ac380f2abc20b5c90c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06069",
+   "short": "Lei 6069/2023",
+   "title": "Lei nº 6.069, de 6 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1071",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1071/lei_6.069.pdf",
+     "sha256": "625ba17447c632a3a6b28d4e3a2cbd8b79d61b1f26e556c77a35f9dd6c25b462"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06068",
+   "short": "Lei 6068/2023",
+   "title": "Lei nº 6.068, de 6 de julho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1070",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1070/lei_6.068.pdf",
+     "sha256": "61bf952b580ce293d46babc8d29d17939874aa674aa4e5ed6e7dcf7049a41054"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06064",
+   "short": "Lei 6064/2023",
+   "title": "Lei nº 6.064, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1054",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1054/lei_6.064.pdf",
+     "sha256": "31ffa556efdfee8e9798a348fad6f50b2fdf48b82e8ceab1a39fca79852b801f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06063",
+   "short": "Lei 6063/2023",
+   "title": "Lei nº 6.063, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1053",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1053/lei_6.063.pdf",
+     "sha256": "60dd38ae37d03a78e09f0a354b6102c62476e853f30f2deb91994a5a1c2521c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06062",
+   "short": "Lei 6062/2023",
+   "title": "Lei nº 6.062, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1052",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1052/lei_6.062.pdf",
+     "sha256": "6cbbea9642d1c0702ed4ed2cdd724c64534be2803ea471e8995996aa0bcd9306"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06061",
+   "short": "Lei 6061/2023",
+   "title": "Lei nº 6.061, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1051",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1051/lei_6.061.pdf",
+     "sha256": "0a24008f97c005a23ebdf1c5b6089d931ca28c9115fc6bcdaabb3f0137c74ffe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06060",
+   "short": "Lei 6060/2023",
+   "title": "Lei nº 6.060, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1050",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1050/lei_6.060.pdf",
+     "sha256": "52e98959073081bea77dbf02f5b014e5ebdde44066037f73eabe0c1d48229e29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06059",
+   "short": "Lei 6059/2023",
+   "title": "Lei nº 6.059, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1049",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1049/lei_6.059.pdf",
+     "sha256": "187e3e672b1f746e0537725eb4fd07022167e5cd388537398dc5fbcb8527f830"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06058",
+   "short": "Lei 6058/2023",
+   "title": "Lei nº 6.058, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1048",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1048/lei_6.058.pdf",
+     "sha256": "c79e1818c1016b60f20fdd7a206fe8e0ed61a4223eb998441ae902ec3144db14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06057",
+   "short": "Lei 6057/2023",
+   "title": "Lei nº 6.057, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1047",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1047/lei_6.057.pdf",
+     "sha256": "afcc35da4f88aa08015a6a057326d0c8a24ff7ec6057da79ffb0251361adaf54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06056",
+   "short": "Lei 6056/2023",
+   "title": "Lei nº 6.056, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1046",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1046/lei_6.056.pdf",
+     "sha256": "0820f3070a87424261fc35a137b5900c6024705ee2d9c5ffe98efad94c87c347"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06055",
+   "short": "Lei 6055/2023",
+   "title": "Lei nº 6.055, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1045",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1045/lei_6.055.pdf",
+     "sha256": "d9147c62f4a53b02f4ba15c7ff932a67ef60dd2571b7da36fa95794641cdc07f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06054",
+   "short": "Lei 6054/2023",
+   "title": "Lei nº 6.054, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1044",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1044/lei_6.054.pdf",
+     "sha256": "dd12205dd566d7706b8ea24c96a42e2f273e36a1e0ae2e5ee37189553db8901f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06053",
+   "short": "Lei 6053/2023",
+   "title": "Lei nº 6.053, de 26 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1042",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1042/lei_6.053.pdf",
+     "sha256": "b40e27e238a11d13e0d0bc416f518764652da1ce11315dacc3107dc3b298f687"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06048",
+   "short": "Lei 6048/2023",
+   "title": "Lei nº 6.048, de 16 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1076",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 8,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1076/lei_6.048_2023-_dispoe_sobre_o_percentual_maximo_de_contratacao_as_operacoes_de__credito_consignado._assinada.pdf",
+     "sha256": "430cc23e7810435e3563345bf5d44619de4a72bcc4a2dac5e8f0e8db1103e947"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06052",
+   "short": "Lei 6052/2023",
+   "title": "Lei nº 6.052, de 15 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1043",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1043/lei_6.052.pdf",
+     "sha256": "7997f8cc36632dd5b43c6e85a5928bdee5588a3073b2d4e521988fb9a11d8c4a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06051",
+   "short": "Lei 6051/2023",
+   "title": "Lei nº 6.051, de 15 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1041",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1041/lei_6.051.pdf",
+     "sha256": "da58f0f81f30849da7778746130e3d246c4a6df4537ec1b7538a5472c55dc618"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06050",
+   "short": "Lei 6050/2023",
+   "title": "Lei nº 6.050, de 15 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1040",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1040/lei_6.050.pdf",
+     "sha256": "67ce52c02e1096405ff7e6bdc4a29d04d686f13aed5ec4a67361916abd46fb17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06049",
+   "short": "Lei 6049/2023",
+   "title": "Lei nº 6.049, de 15 de junho de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1039",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1039/lei_6.049.pdf",
+     "sha256": "aa53b8dee91fa926135bb979465752f601cf79312451bb388e69b942482d248f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06046",
+   "short": "Lei 6046/2023",
+   "title": "Lei nº 6.046, de 23 de maio de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1033",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1033/lei_6.046.pdf",
+     "sha256": "96b44191032bc4884c4b402a0d3c64eafda513ea53316c5b00ca3ac32a65f864"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06044",
+   "short": "Lei 6044/2023",
+   "title": "Lei nº 6.044, de 18 de maio de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1027",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1027/lei_6.044-2023-_altera_a_lei_5.458_que_autoriza_permutascedencias_e_recebimentos_de_servidores_-com_dov.pdf",
+     "sha256": "0d8afeda925f90c0805255003a0c733daef68c0db45f714206bde9180c628a44"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06042",
+   "short": "Lei 6042/2023",
+   "title": "Lei nº 6.042, de 17 de maio de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1029",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1029/lei_6.042.pdf",
+     "sha256": "39689cab4033be5df29df015cd88fc9b1f9cf42c1346c693476f68ba102c3f92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06041",
+   "short": "Lei 6041/2023",
+   "title": "Lei nº 6.041, de 17 de maio de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1028",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1028/lei_6.041.pdf",
+     "sha256": "912460b58b954f244a5a3ceaa595549722a155f018b395136a0ebb750f1e74ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06040",
+   "short": "Lei 6040/2023",
+   "title": "Lei nº 6.040, de 17 de maio de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1026",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1026/lei_6.040.pdf",
+     "sha256": "988f09911eac3eca6a94c199ae4bdb8258ce45ded3dfe1e191a073716ef281a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06039",
+   "short": "Lei 6039/2023",
+   "title": "Lei nº 6.039, de 11 de maio de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1025",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1025/lei_6.039-2023.pdf",
+     "sha256": "6516b5234c394d46b9b28b231b3789731d22460a00a2b69436f0357c0d650d0d"
+    }
+   ]
   }
  ]
 }
