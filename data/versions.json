@@ -10864,6 +10864,608 @@
      "sha256": "bb28d1959c4dc0a65259eb854eceb3bce2408d465da3a8152b2d2bfea3c0dfdd"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-05942",
+   "short": "Lei 5942/2022",
+   "title": "Lei nº 5.942, de 25 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/909",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/909/lei_5.942_-_oficializa_e_denomian_rua_domingos_franscescon_mazzutti_-_assinada.pdf",
+     "sha256": "8f97537ef5ff01407f35d873932ed893f2333b0fb7fb85d605cb4f3e8f3de01c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05941",
+   "short": "Lei 5941/2022",
+   "title": "Lei nº 5.941, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/916",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/916/lei_5.941.pdf",
+     "sha256": "b72df66d08033e64e664808580f1b1afd8b582bed1aad7ebfc123e03708c79b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05940",
+   "short": "Lei 5940/2022",
+   "title": "Lei nº 5.940, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/917",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/917/lei_5.940.pdf",
+     "sha256": "5fa669baf11f3f47741f0e4248545a941e99cc0fc8bec9df4989e05cfd823cd3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05939",
+   "short": "Lei 5939/2022",
+   "title": "Lei nº 5.939, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/914",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/914/lei_5.939.pdf",
+     "sha256": "b6e890ebd1b149ded1253158f28644d07e792afd4fc24a93969300b4e2fd0c66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05938",
+   "short": "Lei 5938/2022",
+   "title": "Lei nº 5.938, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/910",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/910/lei_5.938.pdf",
+     "sha256": "25468aefebf2ec044c77bf3409bfcee6a7f3d8b9f2a736d9a20431c1ed88ed6d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05937",
+   "short": "Lei 5937/2022",
+   "title": "Lei nº 5.937, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/911",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/911/lei_5.937.pdf",
+     "sha256": "12c064f0cc0eddc16cf490257ce3c029a2982c3547ace0bc94a9448efff47ebe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05936",
+   "short": "Lei 5936/2022",
+   "title": "Lei nº 5.936, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/912",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/912/lei_5.936.pdf",
+     "sha256": "bad0e9cf72b54bbc47ea9e7ee8d7c284e4554a99145dcdc574e15f31e5f981a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05935",
+   "short": "Lei 5935/2022",
+   "title": "Lei nº 5.935, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/915",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/915/lei_5.935.pdf",
+     "sha256": "6a345425c14d9472c450f7d8e9d04e10bf384359d843f7f9e3ae1876e469b98f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05934",
+   "short": "Lei 5934/2022",
+   "title": "Lei nº 5.934, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/913",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/913/lei_5.934.pdf",
+     "sha256": "073a4a627bbeee7abc3b6f22321f488bdae9511a4268de92f63c83be896643cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05933",
+   "short": "Lei 5933/2022",
+   "title": "Lei nº 5.933, de 18 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/908",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/908/lei_5.933.pdf",
+     "sha256": "aaee4e9e10b5668b1c19bf43b62972de5dd7a37da47aa251f4df0f23b6635252"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05932",
+   "short": "Lei 5932/2022",
+   "title": "Lei nº 5.932, de 10 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/853",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/853/lei_5.932.pdf",
+     "sha256": "aeadf7a7964664fe219add06958f9cd2854b86aaad2f3aecfd6570524582f262"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05930",
+   "short": "Lei 5930/2022",
+   "title": "Lei nº 5.930, de 10 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/851",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/851/lei_5.930.pdf",
+     "sha256": "6902cd657f1448466c2aa7d4a9f6080fe84d589d44ae72aa3baa171e5574c8a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05929",
+   "short": "Lei 5929/2022",
+   "title": "Lei nº 5.929, de 10 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/850",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/850/lei_5.929.pdf",
+     "sha256": "65f0320048ffd22c4cebc222cca20eb9bd80de2f701128419d3b266cbbc03492"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05928",
+   "short": "Lei 5928/2022",
+   "title": "Lei nº 5.928, de 10 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/848",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/848/lei_5.928.pdf",
+     "sha256": "ce43d347d862711027348e107a933d59d2c9bf91baedc07224129ff7ddf9f1d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05927",
+   "short": "Lei 5927/2022",
+   "title": "Lei nº 5.927, de 10 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/847",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/847/lei_5.927.pdf",
+     "sha256": "67d5a55197498e4a08bc2aaac9f62ca8c67a53828d77fcd17d6c81ac87beb2e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05926",
+   "short": "Lei 5926/2022",
+   "title": "Lei nº 5.926, de 4 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/846",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/846/lei_5.926.pdf",
+     "sha256": "1d7883eb9f47f3fe1946d4687951d2842282e2938bffbd7ba12ae8611442ee0d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00311",
+   "short": "LC 311/2022",
+   "title": "Lei Complementar nº 311, de 4 de novembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/849",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 6,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/849/311__2022-_acresce_e_altera_os_dispositivos_da_lei_complementar_n_.260_de_31_de_janeiro_de_2018_-_defesa_civil_assinada.pdf",
+     "sha256": "85728e0b0094d37446a5fa683517f069fcecf9a2ad1c4eb438c5136f5519e4b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05925",
+   "short": "Lei 5925/2022",
+   "title": "Lei nº 5.925, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/843",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/843/lei_5.925.pdf",
+     "sha256": "5400828724b06bd3e2d0a29172654296e8b130d55dc203e7f83c1779d17e304c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05924",
+   "short": "Lei 5924/2022",
+   "title": "Lei nº 5.924, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/842",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/842/lei_5.924.pdf",
+     "sha256": "7e0d4c8ced279ae47f033e799f39f23f0752f40943170473a6456aa9dcfd4361"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05923",
+   "short": "Lei 5923/2022",
+   "title": "Lei nº 5.923, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/841",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/841/lei_5.923.pdf",
+     "sha256": "fb3eb2b37c61e049be68e8f09e0d81547df620e8ebb80414e21f501feae2da50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05922",
+   "short": "Lei 5922/2022",
+   "title": "Lei nº 5.922, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/840",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/840/lei_5.922.pdf",
+     "sha256": "d1cc45d8f409ec7a98af2d87bf2ddce5791706335c016001c6a966bc351b76a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05921",
+   "short": "Lei 5921/2022",
+   "title": "Lei nº 5.921, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/839",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/839/lei_5.921.pdf",
+     "sha256": "258c67735e6b2f79ba8db687862256de4ea0ec355334efdc82636e1ac17d9e8f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05920",
+   "short": "Lei 5920/2022",
+   "title": "Lei nº 5.920, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/838",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/838/lei_5.920.pdf",
+     "sha256": "74d12a0d47e324acb2f82edca6042321acfe310e21c0b19437a4fed234cfa935"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05919",
+   "short": "Lei 5919/2022",
+   "title": "Lei nº 5.919, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/837",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/837/lei_5.919.pdf",
+     "sha256": "03691160b4acd48a6a20bc91370c321cad24d6ed9c5ec8ff860edfca244303cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05918",
+   "short": "Lei 5918/2022",
+   "title": "Lei nº 5.918, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/836",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/836/lei_5.918.pdf",
+     "sha256": "6d44e0218c0199eb325bcd9d3b1deb24e03fd85e27e01592d9b3b4e916112e17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05917",
+   "short": "Lei 5917/2022",
+   "title": "Lei nº 5.917, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/835",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/835/lei_5.917.pdf",
+     "sha256": "74bf4169de76502db12b7cedc2a06daf9d7643a8dc3fb3e729c76dca5ed8087b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05916",
+   "short": "Lei 5916/2022",
+   "title": "Lei nº 5.916, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/834",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/834/lei_5.916.pdf",
+     "sha256": "19035e74d2dff63d9a954597eb9269a2272dc58bd164f00d9ce60870519f17a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05914",
+   "short": "Lei 5914/2022",
+   "title": "Lei nº 5.914, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/832",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/832/lei_5.914.pdf",
+     "sha256": "377ab0e9155f7e2183ef0d78de0154612b06ac61ea7045393cc1409793faeaeb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05913",
+   "short": "Lei 5913/2022",
+   "title": "Lei nº 5.913, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/831",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/831/lei_5.913.pdf",
+     "sha256": "d1ce73f6da7a3fa753d297b3871e1a58dc5e525b222ac7a7c3cbc9457bbe97ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05912",
+   "short": "Lei 5912/2022",
+   "title": "Lei nº 5.912, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/830",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/830/lei_5.912.pdf",
+     "sha256": "d63e904bcf13125dc5b8f08a31b5047c02a5b3a239194390b507799b77fe5368"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05911",
+   "short": "Lei 5911/2022",
+   "title": "Lei nº 5.911, de 19 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/829",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/829/lei_5.911.pdf",
+     "sha256": "4bd9bb007390ab8a9311790e6f2706b523c204b74404af5e05fa6376825e3828"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05910",
+   "short": "Lei 5910/2022",
+   "title": "Lei nº 5.910, de 17 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/828",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/828/lei_5.910__2022_-_oficializa_e_denomian_rua_valmor_oscar_muller_assinada.pdf",
+     "sha256": "1d3ad6b2e5f4e1fd963000e72fcfed882d0225a8d2583dbbd2be7c2af2a4002a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05909",
+   "short": "Lei 5909/2022",
+   "title": "Lei nº 5.909, de 17 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/827",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 8,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/827/lei_5.909__2022_-_autoriza_o_poder_executvo_a_fazer_concessao_de_uso_de_bom_imovel.pdf",
+     "sha256": "26dc7638217fd87434a271e07c8239c747bae26a3385d7610d3dbe218d7d5bf0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05908",
+   "short": "Lei 5908/2022",
+   "title": "Lei nº 5.908, de 13 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/826",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/826/lei_5.908.pdf",
+     "sha256": "83d2284485b227b726201f83d087dbfc8c74b86dabd56b48b8b4ec05a91c9fa2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05907",
+   "short": "Lei 5907/2022",
+   "title": "Lei nº 5.907, de 13 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/825",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/825/lei_5.907.pdf",
+     "sha256": "724a061ac6bc5f74ac601e6506b64a925e371d96cdad7fdf98dcd2eb4ec9b1e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05904",
+   "short": "Lei 5904/2022",
+   "title": "Lei nº 5.904, de 13 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/822",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/822/lei_5.904.pdf",
+     "sha256": "d8aa1168488da65714ea5327259af78dd076538dfec7d1414f926af0d770780f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05903",
+   "short": "Lei 5903/2022",
+   "title": "Lei nº 5.903, de 13 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/821",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/821/lei_5.903.pdf",
+     "sha256": "e4308f84df42b302fe1f83a90870f811262e5828a5a43b1475113cc48f08aa12"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05902",
+   "short": "Lei 5902/2022",
+   "title": "Lei nº 5.902, de 13 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/820",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/820/lei_5.902.pdf",
+     "sha256": "9dc75d91adc1eb51d884fba1d91bd1106c18bff60cc6063a3354bb768e78e570"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05901",
+   "short": "Lei 5901/2022",
+   "title": "Lei nº 5.901, de 13 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/819",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/819/lei_5.901.pdf",
+     "sha256": "381aabbb47cd9d16f5fcf572e25178d15f153c4f2ef261eaef04ee9e806fe751"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00310",
+   "short": "LC 310/2022",
+   "title": "Lei Complementar nº 310, de 6 de outubro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/845",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 8,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/845/lei_complementar_310_2022_-_dispoe_sobre_a_concessao_de_alvara_e_licencas_assinado.pdf",
+     "sha256": "86d05b242064047bbac53ba879beca905060e941460087db68a589b505836b34"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05898",
+   "short": "Lei 5898/2022",
+   "title": "Lei nº 5.898, de 21 de setembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/782",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/782/lei_5.898.pdf",
+     "sha256": "41d0328a201e38b4a0fe5c75722972c8cc3f8836d4f386ed217d1d76400e8b25"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05897",
+   "short": "Lei 5897/2022",
+   "title": "Lei nº 5.897, de 21 de setembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/776",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/776/lei_5.897.pdf",
+     "sha256": "7ae6c39d9c1dfc8e1c02b2ad7d81542409c0a39c20c71bd01baf2f8232280a54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05896",
+   "short": "Lei 5896/2022",
+   "title": "Lei nº 5.896, de 21 de setembro de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/775",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/775/lei_5.896.pdf",
+     "sha256": "90cb3fdf1611d5dee2a530fd3a99722270da4072f8fe571d7b07a8634dc59d74"
+    }
+   ]
   }
  ]
 }
