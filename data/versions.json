@@ -12082,6 +12082,230 @@
      "sha256": "eb8ab362fc00316acdf863a32c8e7c69564a4b448e45cba6bc0fcb3124fcb01f"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-05845",
+   "short": "Lei 5845/2022",
+   "title": "Lei nº 5.845, de 17 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/752",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/752/lei_5.845_2022.pdf",
+     "sha256": "90d52e449dc93ad85f7869ba908fb2a15812b291f31fe28e5be07f8919fed33a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05844",
+   "short": "Lei 5844/2022",
+   "title": "Lei nº 5.844, de 17 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/751",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/751/lei_5.844_2022.pdf",
+     "sha256": "1d0f44890a30ab1e49fb869fa0cae43ff83575d1aab182e1576ef8ddff280859"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05843",
+   "short": "Lei 5843/2022",
+   "title": "Lei nº 5.843, de 17 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/750",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/750/lei_5.843_2022.pdf",
+     "sha256": "df7198a801bc4079599e1a244d25464b201ac1c6e658852f0b25315523f86ab9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05842",
+   "short": "Lei 5842/2022",
+   "title": "Lei nº 5.842, de 17 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/749",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/749/lei_5.842_2022.pdf",
+     "sha256": "ef4ef4a3da99ce670001c0d95119ba27fbb79df34ac6f354ac4c5073227eec5e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05841",
+   "short": "Lei 5841/2022",
+   "title": "Lei nº 5.841, de 17 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/748",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/748/lei_5.841_2022.pdf",
+     "sha256": "9cc2b47d0d96ec68396b5cb29e9d8fa2a145432e613f1aae84a639c50fe0982c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05838",
+   "short": "Lei 5838/2022",
+   "title": "Lei nº 5.838, de 11 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/715",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/715/lei_5.838__2022_autoriza_a_contratacao_temporaria_de_pessoas_fisicas_e_juridicas_para_atendimento_ao_covid-19.pdf",
+     "sha256": "9478676be16d07726da9da4572717b93b5f2925ffe76a2312c7f8195d11dd6c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05837",
+   "short": "Lei 5837/2022",
+   "title": "Lei nº 5.837, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/714",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/714/lei_5.837_2022.pdf",
+     "sha256": "ed0a2f86456d9573a44f01aa0f1d6e869913f1650770aca41e94b4f18208bdb1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05836",
+   "short": "Lei 5836/2022",
+   "title": "Lei nº 5.836, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/713",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/713/lei_5.836_2022.pdf",
+     "sha256": "1b5ff68ae69a59f847bb04fd1e7511e37271a883342ffe6c8b2248bce254aac4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05834",
+   "short": "Lei 5834/2022",
+   "title": "Lei nº 5.834, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/711",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/711/lei_5.834_2022.pdf",
+     "sha256": "8c3a77a4bc006ddf00bbbd423acbd0ad53080fffa054b44d284f2da7e85a9755"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05833",
+   "short": "Lei 5833/2022",
+   "title": "Lei nº 5.833, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/710",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/710/lei_5.833_2022.pdf",
+     "sha256": "c287323965282b7eb08138973b72a5f6f50697ca1e05b5de65126ee928c5f9f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05832",
+   "short": "Lei 5832/2022",
+   "title": "Lei nº 5.832, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/709",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/709/lei_5.832_2022.pdf",
+     "sha256": "1778019572d33329ece995272e3081e9fb794f03747fa99f05a2bba5290d2680"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05831",
+   "short": "Lei 5831/2022",
+   "title": "Lei nº 5.831, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/708",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/708/lei_5.831_2022.pdf",
+     "sha256": "9da18db182d2b2d61ef1a33ab6ed6e91f17a3c0bce1f7d03afbecf6f64e2aaf6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05830",
+   "short": "Lei 5830/2022",
+   "title": "Lei nº 5.830, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/707",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/707/lei_5.830_2022.pdf",
+     "sha256": "58b1dfd3f0af0c66ea61f040d971cfd3c14cf81917a22876fbe7df573925a57a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05829",
+   "short": "Lei 5829/2022",
+   "title": "Lei nº 5.829, de 10 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/706",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/706/lei_5.829_2022.pdf",
+     "sha256": "224446cd0c78303745bc454664dc1b6bd5272534c0332d0c0394430380d71d12"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05828",
+   "short": "Lei 5828/2022",
+   "title": "Lei nº 5.828, de 4 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/705",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/705/lei_5.828_2022.pdf",
+     "sha256": "9a4b771f4a00904d032927b94151d2f6fed05d824d1bb1320d703279bda94a67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05827",
+   "short": "Lei 5827/2022",
+   "title": "Lei nº 5.827, de 3 de agosto de 2022",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/704",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2022/704/lei_5.827_2022.pdf",
+     "sha256": "dbb88cbc225e9ded2b6f6efdc8d6fea2d05abd8958fab58f861e398f2b206f16"
+    }
+   ]
   }
  ]
 }
