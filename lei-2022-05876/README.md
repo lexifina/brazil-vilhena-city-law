@@ -1,0 +1,10 @@
+# Lei nº 5.876, de 6 de setembro de 2022
+
+Lei 5876/2022 · 1 versions, from 2022-09-06 (latest in force: 2022-09-06) · <https://sapl.vilhena.ro.leg.br/norma/789>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1o | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 23 | [art-0023.md](art-0023.md) | 0 |  |
+| Art. 23-A | [art-0023-a.md](art-0023-a.md) | 0 |  |
