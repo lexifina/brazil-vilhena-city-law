@@ -7868,6 +7868,412 @@
      "sha256": "c6bacf2427a04999fa50e8073ba84931f631070661716db0df7f8d6f6dd51583"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-06228",
+   "short": "Lei 6228/2024",
+   "title": "Lei nº 6.228, de 21 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1251",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1251/lei_6.228.pdf",
+     "sha256": "3b4207f26a2b0c92c04bfa37c0c680822c38f49eaedaa0295b933ce531315e66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06227",
+   "short": "Lei 6227/2024",
+   "title": "Lei nº 6.227, de 21 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1250",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1250/lei_6.227.pdf",
+     "sha256": "e8bd005d551570341021169d6e4b116e349e958294e853d0bd6a27c9eb6a1d98"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06226",
+   "short": "Lei 6226/2024",
+   "title": "Lei nº 6.226, de 21 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1249",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1249/lei_6.226.pdf",
+     "sha256": "8b5dcf595e6d3a42a1f1e63575949378b44ebd51415b5ad5b4da6afc6e7efff5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06225",
+   "short": "Lei 6225/2024",
+   "title": "Lei nº 6.225, de 21 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1248",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1248/lei_6.225.pdf",
+     "sha256": "52a8c0d71d3d0e409542f464e7319251aba75f567da94744508bfc380120e302"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06224",
+   "short": "Lei 6224/2024",
+   "title": "Lei nº 6.224, de 21 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1247",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1247/lei_6.224.pdf",
+     "sha256": "4e3bcb3c512cd99c254149851c6af0a5869a45f0050018e91c104f0aa2e65bae"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00325",
+   "short": "LC 325/2024",
+   "title": "Lei Complementar nº 325, de 20 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1263",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1263/lc_n_325_de_20_de_fevereiro_de_2024_-_altera_a_lc_230_de_2016_-_saae.pdf",
+     "sha256": "3a15ef031c255af77c35076870ee1dd917a903abefdb6fc508aafede24f9e6bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06223",
+   "short": "Lei 6223/2024",
+   "title": "Lei nº 6.223, de 16 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1243",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1243/lei_6.223.pdf",
+     "sha256": "bf928f0eff84d776bab6518c4192c477c6db414776f24a0c777a97ee4444b5ea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06222",
+   "short": "Lei 6222/2024",
+   "title": "Lei nº 6.222, de 16 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1242",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1242/lei_6.222.pdf",
+     "sha256": "2c86b63c1ba496dc22afc04b8180e87bb2c5d9a8e0283f315abf4308d1d953ea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06219",
+   "short": "Lei 6219/2024",
+   "title": "Lei nº 6.219, de 8 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1238",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1238/lei_6.219.pdf",
+     "sha256": "c50ddb4abd4c76b996e3dcc2a6ea6a37febc8986aa770ad171b02749a920928b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06218",
+   "short": "Lei 6218/2024",
+   "title": "Lei nº 6.218, de 8 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1237",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1237/lei_6.218.pdf",
+     "sha256": "214e8fe7f319cdaca81f886431504a2a7a96ba45cb0128b751bda87b97fcd55c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06217",
+   "short": "Lei 6217/2024",
+   "title": "Lei nº 6.217, de 8 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1236",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1236/lei_6.217.pdf",
+     "sha256": "cee0da22718bbb8d2b654fabc4cebd984ed1d218447e8af7704abb70ea551eec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06216",
+   "short": "Lei 6216/2024",
+   "title": "Lei nº 6.216, de 8 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1235",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1235/lei_6.216.pdf",
+     "sha256": "c221ee5f66f15bb42048cc6b03222e5d2d5aa777621d6805217a45ba2d2fdd88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06215",
+   "short": "Lei 6215/2024",
+   "title": "Lei nº 6.215, de 8 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1234",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1234/lei_6.215.pdf",
+     "sha256": "84a57fc1c219eaaa2bb8d9785d21b76c3c350ac6ed0d734e7a1e50032f65d254"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06214",
+   "short": "Lei 6214/2024",
+   "title": "Lei nº 6.214, de 8 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1233",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1233/lei_6.214.pdf",
+     "sha256": "d3e455158d07ea841f4590abe015c92c227901af415f0c9b597348acd5c323eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06213",
+   "short": "Lei 6213/2024",
+   "title": "Lei nº 6.213, de 8 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1232",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1232/lei_6.213.pdf",
+     "sha256": "d877fa95fb32fa5f54850338b87862cff0c25f4e1d014f18f4deb3d53030d99a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06212",
+   "short": "Lei 6212/2024",
+   "title": "Lei nº 6.212, de 7 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1231",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1231/lei_6.212.pdf",
+     "sha256": "7326061d3522b7a2a6012aed40da9dafc1e4df06b7bec74256685c43a7678ef8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06211",
+   "short": "Lei 6211/2024",
+   "title": "Lei nº 6.211, de 7 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1230",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1230/lei_6.211.pdf",
+     "sha256": "959454e0ca3551950eb3725dfc6fe21dfe907c88ef75038e9d1f823bc9a615f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06210",
+   "short": "Lei 6210/2024",
+   "title": "Lei nº 6.210, de 7 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1229",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1229/lei_6.210.pdf",
+     "sha256": "504bb124f898386e38f76c48aedfdb40a5627420286e7f9308fc3e8fb79e3309"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06209",
+   "short": "Lei 6209/2024",
+   "title": "Lei nº 6.209, de 7 de fevereiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1228",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1228/lei_6.209.pdf",
+     "sha256": "209b4f7ca974a4666191b30b54003a24bf33676375cedc333a65a3de7bcd4f0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06206",
+   "short": "Lei 6206/2024",
+   "title": "Lei nº 6.206, de 17 de janeiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1220",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1220/lei_6.206_2024_-_altera_a_lei5.790_24_-_frente_de_servico_corrigida_assinada.pdf",
+     "sha256": "a87e0cb088dfa72b60d2c50d10e27dd26c23a4f6f604999b86d9317e9244597e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06202",
+   "short": "Lei 6202/2024",
+   "title": "Lei nº 6.202, de 17 de janeiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1216",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1216/lei_6.202.pdf",
+     "sha256": "9ff2a47b28cc79eaa5e52593b214cca276bcb0880ad8525adf4445c7d1c7a8aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06201",
+   "short": "Lei 6201/2024",
+   "title": "Lei nº 6.201, de 17 de janeiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1215",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1215/lei_6.201.pdf",
+     "sha256": "27537258ce958e90a8754517831fc06717373957b4daa266374eccb77d2e965b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00323",
+   "short": "LC 323/2024",
+   "title": "Lei Complementar nº 323, de 17 de janeiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1225",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 3,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1225/lc_n_323_de_17_de_janeiro_de_2024_assinada.pdf",
+     "sha256": "5ef4d583a8211611295323e7a01435d501c6c79218a9fec50a6a8929fe83bcc1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00322",
+   "short": "LC 322/2024",
+   "title": "Lei Complementar nº 322, de 17 de janeiro de 2024",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1226",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2024/1226/lc_n_322_de_17_de_janeiro_de_2024_-_altera_o_caput_o_art._86_da_lc_356_assinada_corrigida.pdf",
+     "sha256": "2e738203544420ca86832768b1618e1baa4b5947a4b843e3a28c2b0db93d8e70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06197",
+   "short": "Lei 6197/2023",
+   "title": "Lei nº 6.197, de 22 de dezembro de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1212",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 5,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1212/lei_6.197.pdf",
+     "sha256": "5b82f0e4c8831e2b8206f93b145b78dec3dd55bac247d8f38725a08b79c27ffc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06190",
+   "short": "Lei 6190/2023",
+   "title": "Lei nº 6.190, de 15 de dezembro de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1205",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1205/lei_6.190.pdf",
+     "sha256": "af9587e909812f57eecc45936a73153d14c73eba1cb4aff57ae5fcb610e97581"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06189",
+   "short": "Lei 6189/2023",
+   "title": "Lei nº 6.189, de 15 de dezembro de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1204",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1204/lei_6.189.pdf",
+     "sha256": "878c94dc896d87c5c4bc81274f4a0a57253f1b0dd1e7aad62b7bfe486b8df509"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06188",
+   "short": "Lei 6188/2023",
+   "title": "Lei nº 6.188, de 13 de dezembro de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1203",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1203/lei_6.188_2023_-_autoriza_o_poder_executivo_a_oferecer_contrapartida_para_a_construcao_das_unidades_habitacionais_do_programa_minha_casa_minha_vida_e_da_outras_providencias.pdf",
+     "sha256": "f1cd5f1a15b51cea80fac3e468199f77697c592fdf9d7512d318bfede4b2b24b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06187",
+   "short": "Lei 6187/2023",
+   "title": "Lei nº 6.187, de 13 de dezembro de 2023",
+   "url": "https://sapl.vilhena.ro.leg.br/norma/1202",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 4,
+     "source_url": "https://sapl.vilhena.ro.leg.br/media/sapl/public/normajuridica/2023/1202/lei_6.187.pdf",
+     "sha256": "1e2153d3d06f33ee59c1a50516af0cb9c902916c1910e8fa37f93a2d8bdd404a"
+    }
+   ]
   }
  ]
 }
