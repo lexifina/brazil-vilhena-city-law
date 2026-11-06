@@ -19,6 +19,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Vilhena, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.vilhena.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Vilhena, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.vilhena.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -513,20 +514,58 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2024-06326` | Lei nº 6.326, de 12 de junho de 2024 | 1 | 2024-06-12 to 2024-06-12 |
 | `lei-2024-06325` | Lei nº 6.325, de 12 de junho de 2024 | 1 | 2024-06-12 to 2024-06-12 |
 | `lei-2024-06324` | Lei nº 6.324, de 12 de junho de 2024 | 1 | 2024-06-12 to 2024-06-12 |
+| `lei-2024-06321` | Lei nº 6.321, de 5 de junho de 2024 | 1 | 2024-06-05 to 2024-06-05 |
+| `lei-2024-06320` | Lei nº 6.320, de 5 de junho de 2024 | 1 | 2024-06-05 to 2024-06-05 |
+| `lei-2024-06319` | Lei nº 6.319, de 23 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06318` | Lei nº 6.318, de 23 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06317` | Lei nº 6.317, de 23 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06316` | Lei nº 6.316, de 23 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06315` | Lei nº 6.315, de 23 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06314` | Lei nº 6.314, de 23 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06313` | Lei nº 6.313, de 22 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06312` | Lei nº 6.312, de 22 de maio de 2024 | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-06311` | Lei nº 6.311, de 22 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06310` | Lei nº 6.310, de 22 de maio de 2024 | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-2024-06308` | Lei nº 6.308, de 15 de maio de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-06307` | Lei nº 6.307, de 15 de maio de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-06306` | Lei nº 6.306, de 15 de maio de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-06305` | Lei nº 6.305, de 15 de maio de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-06304` | Lei nº 6.304, de 15 de maio de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-06303` | Lei nº 6.303, de 15 de maio de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-06302` | Lei nº 6.302, de 8 de maio de 2024 | 1 | 2024-05-08 to 2024-05-08 |
+| `lei-2024-06301` | Lei nº 6.301, de 8 de maio de 2024 | 1 | 2024-05-08 to 2024-05-08 |
+| `lei-2024-06300` | Lei nº 6.300, de 8 de maio de 2024 | 1 | 2024-05-08 to 2024-05-08 |
+| `lei-2024-06299` | Lei nº 6.299, de 6 de maio de 2024 | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-06298` | Lei nº 6.298, de 6 de maio de 2024 | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-06291` | Lei nº 6.291, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06290` | Lei nº 6.290, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06289` | Lei nº 6.289, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06288` | Lei nº 6.288, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06287` | Lei nº 6.287, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06286` | Lei nº 6.286, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06285` | Lei nº 6.285, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06284` | Lei nº 6.284, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06283` | Lei nº 6.283, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06282` | Lei nº 6.282, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06281` | Lei nº 6.281, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06280` | Lei nº 6.280, de 22 de abril de 2024 | 1 | 2024-04-22 to 2024-04-22 |
+| `lei-2024-06278` | Lei nº 6.278, de 3 de abril de 2024 | 1 | 2024-04-03 to 2024-04-03 |
+| `lei-2024-06277` | Lei nº 6.277, de 3 de abril de 2024 | 1 | 2024-04-03 to 2024-04-03 |
+| `lei-2024-06276` | Lei nº 6.276, de 3 de abril de 2024 | 1 | 2024-04-03 to 2024-04-03 |
 
-The build made 487 commits:
+The build made 525 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 487 | first version of an act |
+| 525 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 487 laws in the record.
-- 974 tags.
+- 525 laws in the record.
+- 1050 tags.
 
 ## Dates
 
@@ -538,7 +577,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c970edcbd34160362c24170d72360f74638225d2684dee0f81eb1c723369e438` (2129468 bytes).
+- Corpus: sha256 `c15e52522a462a7921a938e3fb428e6bc082aea0809604ecad953112bf4f99dc` (2259449 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -589,6 +628,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -599,6 +641,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
